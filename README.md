@@ -12,7 +12,7 @@ is enabled per-world. Private repo — copyrighted FASA content, personal use on
 attribute / skill / physical / mental / social / magical / miscellaneous) in
 `sc-qualities`, point values verified against the master table (book p.36). Other
 Companion content (new character types, contacts) is out of scope for now. See
-`docs/PLAN.md`. Not yet tagged for release (needs the GitHub repo created).
+`docs/PLAN.md`. Released as **v0.1.0**.
 
 ## Build
 ```

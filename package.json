@@ -1,6 +1,6 @@
 {
   "name": "sr2e-shadowrun-companion",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "private": true,
   "description": "Shadowrun Companion content module for the SR2E FoundryVTT system",
   "type": "module",

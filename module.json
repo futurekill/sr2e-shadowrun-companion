@@ -2,7 +2,7 @@
   "id": "sr2e-shadowrun-companion",
   "title": "Shadowrun 2E: Shadowrun Companion",
   "description": "The Edges & Flaws catalog (and other character options) from the Shadowrun Companion: Beyond the Shadows (FASA 7905) as compendia for the Shadowrun 2nd Edition system.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -12,7 +12,7 @@
       {
         "id": "sr2e",
         "type": "system",
-        "compatibility": { "minimum": "0.9.0" }
+        "compatibility": { "minimum": "0.10.0" }
       }
     ]
   },
