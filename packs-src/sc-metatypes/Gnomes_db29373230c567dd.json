@@ -1,0 +1,53 @@
+{
+  "_id": "db29373230c567dd",
+  "name": "Gnomes",
+  "type": "race",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "raceKey": "dwarf",
+    "attributeMods": {
+      "body": 1,
+      "quickness": -1,
+      "strength": 2,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 2
+    },
+    "attributeMaximums": {
+      "body": 7,
+      "quickness": 5,
+      "strength": 8,
+      "charisma": 6,
+      "intelligence": 6,
+      "willpower": 7,
+      "essence": 6,
+      "magic": 6,
+      "reaction": 6
+    },
+    "specialAbilities": [
+      "thermographic_vision",
+      "disease_resistance"
+    ],
+    "karmaCost": 0,
+    "description": "<p>A dwarf subgroup of Central Europe and Asia Minor — shorter, with childlike physiques, longer noses and a tendency toward magic (most gnomes are shamans). <strong>Mods:</strong> standard dwarf except Willpower +2.</p><p><em>Shadowrun Companion p.41</em></p>"
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1782000000000,
+    "modifiedTime": 1782000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!db29373230c567dd"
+}

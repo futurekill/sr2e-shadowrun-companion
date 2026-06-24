@@ -1,0 +1,53 @@
+{
+  "_id": "a4486402b14d1a4b",
+  "name": "Menehune",
+  "type": "race",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "raceKey": "dwarf",
+    "attributeMods": {
+      "body": 2,
+      "quickness": -1,
+      "strength": 2,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 1
+    },
+    "attributeMaximums": {
+      "body": 7,
+      "quickness": 5,
+      "strength": 8,
+      "charisma": 6,
+      "intelligence": 6,
+      "willpower": 7,
+      "essence": 6,
+      "magic": 6,
+      "reaction": 6
+    },
+    "specialAbilities": [
+      "thermographic_vision",
+      "disease_resistance"
+    ],
+    "karmaCost": 0,
+    "description": "<p>The “little people” of Hawai’i — shorter than most dwarfs, with luxuriant body hair, thick muscles and large noses. <strong>Mods:</strong> standard dwarf except Body +2.</p><p><em>Shadowrun Companion p.40</em></p>"
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1782000000000,
+    "modifiedTime": 1782000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!a4486402b14d1a4b"
+}

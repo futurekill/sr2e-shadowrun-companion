@@ -2,7 +2,7 @@
   "id": "sr2e-shadowrun-companion",
   "title": "Shadowrun 2E: Shadowrun Companion",
   "description": "The Edges & Flaws catalog (and other character options) from the Shadowrun Companion: Beyond the Shadows (FASA 7905) as compendia for the Shadowrun 2nd Edition system.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -20,13 +20,14 @@
     { "name": "James Candalino" }
   ],
   "packs": [
-    { "name": "sc-qualities", "label": "SC Edges & Flaws", "path": "packs/sc-qualities", "type": "Item", "system": "sr2e", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } }
+    { "name": "sc-qualities", "label": "SC Edges & Flaws", "path": "packs/sc-qualities", "type": "Item", "system": "sr2e", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "sc-metatypes", "label": "SC Metahuman Variants", "path": "packs/sc-metatypes", "type": "Item", "system": "sr2e", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } }
   ],
   "packFolders": [
     {
       "name": "Shadowrun Companion",
       "sorting": "m",
-      "packs": ["sc-qualities"]
+      "packs": ["sc-qualities", "sc-metatypes"]
     }
   ],
   "flags": {}

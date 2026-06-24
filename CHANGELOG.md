@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.2.0 — Metahuman variants
+
+**14 metahuman variant races** (`sc-metatypes`, book p.39-44) as system `race`
+items: Cyclops, Fomori, Giants, Minotaurs (troll); Koborokuru, Menehune, Gnomes
+(dwarf); Hobgoblin, Oni, Ogre, Satyr (ork); Wakyambi, Night Ones, Dryads (elf).
+Each is its base metatype's racial mods with the printed exceptions applied,
+render-verified. Drag onto a character like any race.
+
+Skipped: shapeshifters (need dual-form/regen actor support — out of scope for
+now) and albinism (just any metatype + the sunlight Allergy flaw, already in
+`sc-qualities`).
+
 ## 0.1.0 — Edges & Flaws
 
 The full *Shadowrun Companion: Beyond the Shadows* (FASA 7905) Edges & Flaws

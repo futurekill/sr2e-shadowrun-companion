@@ -1,0 +1,53 @@
+{
+  "_id": "3dd8b73a62a953b2",
+  "name": "Fomori",
+  "type": "race",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "raceKey": "troll",
+    "attributeMods": {
+      "body": 4,
+      "quickness": -1,
+      "strength": 3,
+      "charisma": 0,
+      "intelligence": -2,
+      "willpower": -1
+    },
+    "attributeMaximums": {
+      "body": 11,
+      "quickness": 5,
+      "strength": 10,
+      "charisma": 4,
+      "intelligence": 4,
+      "willpower": 5,
+      "essence": 6,
+      "magic": 6,
+      "reaction": 5
+    },
+    "specialAbilities": [
+      "thermographic_vision",
+      "reach_1"
+    ],
+    "karmaCost": 0,
+    "description": "<p>Irish/Celtic trolls, leaner and more attractive than most, with a higher-than-average aptitude for magic. <strong>Mods:</strong> standard troll except Body +4, Strength +3, no Dermal Armor, no Charisma penalty.</p><p><em>Shadowrun Companion p.40</em></p>"
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1782000000000,
+    "modifiedTime": 1782000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!3dd8b73a62a953b2"
+}

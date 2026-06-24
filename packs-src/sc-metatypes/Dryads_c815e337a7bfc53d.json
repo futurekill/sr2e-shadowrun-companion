@@ -1,0 +1,52 @@
+{
+  "_id": "c815e337a7bfc53d",
+  "name": "Dryads",
+  "type": "race",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "raceKey": "elf",
+    "attributeMods": {
+      "body": -1,
+      "quickness": 1,
+      "strength": -1,
+      "charisma": 3,
+      "intelligence": 0,
+      "willpower": 0
+    },
+    "attributeMaximums": {
+      "body": 6,
+      "quickness": 7,
+      "strength": 6,
+      "charisma": 8,
+      "intelligence": 6,
+      "willpower": 6,
+      "essence": 6,
+      "magic": 6,
+      "reaction": 7
+    },
+    "specialAbilities": [
+      "low_light_vision"
+    ],
+    "karmaCost": 0,
+    "description": "<p>An all-female elf metavariant averaging just over 1m tall, with seasonal hair/eye color and a deep bond to the wild. <strong>Mods:</strong> standard elf except Body −1, Strength −1, Charisma +3, a Mild allergy to urban areas, and a free, limited Animal Empathy Edge that affects only birds and small tree-dwelling animals (squirrels, chipmunks).</p><p><em>Shadowrun Companion p.44</em></p>"
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1782000000000,
+    "modifiedTime": 1782000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!c815e337a7bfc53d"
+}

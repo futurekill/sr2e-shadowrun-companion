@@ -1,0 +1,52 @@
+{
+  "_id": "9d66ab6cb323fd82",
+  "name": "Satyr",
+  "type": "race",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "raceKey": "ork",
+    "attributeMods": {
+      "body": 3,
+      "quickness": -1,
+      "strength": 2,
+      "charisma": -1,
+      "intelligence": -1,
+      "willpower": 1
+    },
+    "attributeMaximums": {
+      "body": 9,
+      "quickness": 6,
+      "strength": 8,
+      "charisma": 5,
+      "intelligence": 5,
+      "willpower": 6,
+      "essence": 6,
+      "magic": 6,
+      "reaction": 6
+    },
+    "specialAbilities": [
+      "low_light_vision"
+    ],
+    "karmaCost": 0,
+    "description": "<p>Mediterranean orks with furry lower bodies, cloven hooves and small curly horns; nearly all are magicians, usually following the totem of Bacchus (use Coyote). <strong>Mods:</strong> standard ork except Quickness −1 (hooves) and Willpower +1.</p><p><em>Shadowrun Companion p.43</em></p>"
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1782000000000,
+    "modifiedTime": 1782000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!9d66ab6cb323fd82"
+}

@@ -1,0 +1,52 @@
+{
+  "_id": "cc8572a19c14cf1c",
+  "name": "Night Ones",
+  "type": "race",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "raceKey": "elf",
+    "attributeMods": {
+      "body": 0,
+      "quickness": 2,
+      "strength": 0,
+      "charisma": 2,
+      "intelligence": 0,
+      "willpower": 0
+    },
+    "attributeMaximums": {
+      "body": 6,
+      "quickness": 7,
+      "strength": 6,
+      "charisma": 8,
+      "intelligence": 6,
+      "willpower": 6,
+      "essence": 6,
+      "magic": 6,
+      "reaction": 7
+    },
+    "specialAbilities": [
+      "low_light_vision"
+    ],
+    "karmaCost": 0,
+    "description": "<p>Eastern European elves (“Dark Elves”) covered in a fine layer of fur, with dark coloring and silver hair and eyes. <strong>Mods:</strong> standard elf except Quickness +2 and a Mild allergy to sunlight (see the Allergy flaw).</p><p><em>Shadowrun Companion p.44</em></p>"
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1782000000000,
+    "modifiedTime": 1782000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!cc8572a19c14cf1c"
+}

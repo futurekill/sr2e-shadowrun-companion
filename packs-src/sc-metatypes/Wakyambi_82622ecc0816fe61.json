@@ -1,0 +1,52 @@
+{
+  "_id": "82622ecc0816fe61",
+  "name": "Wakyambi",
+  "type": "race",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "raceKey": "elf",
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 2,
+      "intelligence": 0,
+      "willpower": 1
+    },
+    "attributeMaximums": {
+      "body": 6,
+      "quickness": 7,
+      "strength": 6,
+      "charisma": 8,
+      "intelligence": 6,
+      "willpower": 6,
+      "essence": 6,
+      "magic": 6,
+      "reaction": 7
+    },
+    "specialAbilities": [
+      "low_light_vision"
+    ],
+    "karmaCost": 0,
+    "description": "<p>An African elf subgroup — taller and thinner than most elves, almost always albino, dwelling deep in the African heartland. <strong>Mods:</strong> standard elf except Willpower +1 and no Quickness bonus.</p><p><em>Shadowrun Companion p.42</em></p>"
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1782000000000,
+    "modifiedTime": 1782000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!82622ecc0816fe61"
+}

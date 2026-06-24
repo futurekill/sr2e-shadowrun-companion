@@ -1,0 +1,52 @@
+{
+  "_id": "fc8e9ba36de25245",
+  "name": "Ogre",
+  "type": "race",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "raceKey": "ork",
+    "attributeMods": {
+      "body": 3,
+      "quickness": 0,
+      "strength": 2,
+      "charisma": 0,
+      "intelligence": -1,
+      "willpower": 0
+    },
+    "attributeMaximums": {
+      "body": 9,
+      "quickness": 6,
+      "strength": 8,
+      "charisma": 5,
+      "intelligence": 5,
+      "willpower": 6,
+      "essence": 6,
+      "magic": 6,
+      "reaction": 6
+    },
+    "specialAbilities": [
+      "low_light_vision"
+    ],
+    "karmaCost": 0,
+    "description": "<p>European orks with smoother skin, less hair and pronounced jawlines. <strong>Mods:</strong> standard ork except no Charisma penalty.</p><p><em>Shadowrun Companion p.42</em></p>"
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1782000000000,
+    "modifiedTime": 1782000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!fc8e9ba36de25245"
+}

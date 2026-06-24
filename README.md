@@ -11,8 +11,9 @@ is enabled per-world. Private repo — copyrighted FASA content, personal use on
 **Edges & Flaws catalog complete — 86 qualities** (48 edges + 38 flaws across
 attribute / skill / physical / mental / social / magical / miscellaneous) in
 `sc-qualities`, point values verified against the master table (book p.36). Other
-Companion content (new character types, contacts) is out of scope for now. See
-`docs/PLAN.md`. Released as **v0.1.0**.
+Also **14 metahuman variant races** (`sc-metatypes`, book p.39-44) as `race`
+items. Remaining Companion content (shapeshifters, contacts system, GM rules) is
+out of scope for now. See `docs/PLAN.md`. Released as **v0.2.0**.
 
 ## Build
 ```

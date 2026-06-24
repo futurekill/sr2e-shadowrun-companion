@@ -1,0 +1,53 @@
+{
+  "_id": "d2104422b7729fe8",
+  "name": "Giants",
+  "type": "race",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "raceKey": "troll",
+    "attributeMods": {
+      "body": 5,
+      "quickness": -1,
+      "strength": 5,
+      "charisma": -2,
+      "intelligence": -2,
+      "willpower": -1
+    },
+    "attributeMaximums": {
+      "body": 11,
+      "quickness": 5,
+      "strength": 10,
+      "charisma": 4,
+      "intelligence": 4,
+      "willpower": 5,
+      "essence": 6,
+      "magic": 6,
+      "reaction": 5
+    },
+    "specialAbilities": [
+      "thermographic_vision",
+      "reach_1"
+    ],
+    "karmaCost": 0,
+    "description": "<p>Nordic trolls, fairer and taller than most (averaging 3.5m), lacking the dermal bone deposits. <strong>Mods:</strong> standard troll except Strength +5 and no Dermal Armor.</p><p><em>Shadowrun Companion p.41</em></p>"
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1782000000000,
+    "modifiedTime": 1782000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!d2104422b7729fe8"
+}

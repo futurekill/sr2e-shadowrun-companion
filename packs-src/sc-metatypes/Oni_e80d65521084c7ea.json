@@ -1,0 +1,52 @@
+{
+  "_id": "e80d65521084c7ea",
+  "name": "Oni",
+  "type": "race",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "raceKey": "ork",
+    "attributeMods": {
+      "body": 3,
+      "quickness": 0,
+      "strength": 2,
+      "charisma": -1,
+      "intelligence": -1,
+      "willpower": 0
+    },
+    "attributeMaximums": {
+      "body": 9,
+      "quickness": 6,
+      "strength": 8,
+      "charisma": 5,
+      "intelligence": 5,
+      "willpower": 6,
+      "essence": 6,
+      "magic": 6,
+      "reaction": 6
+    },
+    "specialAbilities": [
+      "low_light_vision"
+    ],
+    "karmaCost": 0,
+    "description": "<p>Japanese orks with brightly colored skin, enlarged ears and horns, and a higher-than-average aptitude for magic. <strong>Mods:</strong> standard ork. By gamemaster discretion an oni may be built with Resources A / Race B / Magic C to reflect that magical propensity; otherwise use normal priorities.</p><p><em>Shadowrun Companion p.42</em></p>"
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1782000000000,
+    "modifiedTime": 1782000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!e80d65521084c7ea"
+}
