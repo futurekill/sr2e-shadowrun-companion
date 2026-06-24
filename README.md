@@ -8,9 +8,11 @@ Requires the `sr2e` system (which provides the `quality` Edge/Flaw item type) an
 is enabled per-world. Private repo — copyrighted FASA content, personal use only.
 
 ## Status
-Early scaffold. Transcribing the Edges & Flaws catalog (Attribute / Skill /
-Physical / Mental / Social / Magical / Miscellaneous) into `sc-qualities`. See
-`docs/PLAN.md`.
+**Edges & Flaws catalog complete — 86 qualities** (48 edges + 38 flaws across
+attribute / skill / physical / mental / social / magical / miscellaneous) in
+`sc-qualities`, point values verified against the master table (book p.36). Other
+Companion content (new character types, contacts) is out of scope for now. See
+`docs/PLAN.md`. Not yet tagged for release (needs the GitHub repo created).
 
 ## Build
 ```
