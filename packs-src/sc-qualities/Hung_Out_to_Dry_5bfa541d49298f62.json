@@ -1,0 +1,32 @@
+{
+  "_id": "5bfa541d49298f62",
+  "name": "Hung Out to Dry",
+  "type": "quality",
+  "img": "icons/svg/downgrade.svg",
+  "system": {
+    "kind": "flaw",
+    "category": "social",
+    "pointValue": -4,
+    "source": "Shadowrun Companion",
+    "notes": "No safety net — fixers and contacts won't stick their necks out for you in a crisis."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.0.1",
+    "createdTime": 1782000000000,
+    "modifiedTime": 1782000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!5bfa541d49298f62"
+}

@@ -1,0 +1,32 @@
+{
+  "_id": "a5b1826f19578ed5",
+  "name": "High School Education",
+  "type": "quality",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "kind": "edge",
+    "category": "mental",
+    "pointValue": 1,
+    "source": "Shadowrun Companion",
+    "notes": "Secondary education — basic Knowledge skills."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.0.1",
+    "createdTime": 1782000000000,
+    "modifiedTime": 1782000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!a5b1826f19578ed5"
+}

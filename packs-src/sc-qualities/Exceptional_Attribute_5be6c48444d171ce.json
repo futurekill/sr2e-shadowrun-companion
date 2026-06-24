@@ -1,0 +1,32 @@
+{
+  "_id": "5be6c48444d171ce",
+  "name": "Exceptional Attribute",
+  "type": "quality",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "kind": "edge",
+    "category": "attribute",
+    "pointValue": 2,
+    "source": "Shadowrun Companion",
+    "notes": "Raise one Attribute one point above its natural racial maximum."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.0.1",
+    "createdTime": 1782000000000,
+    "modifiedTime": 1782000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!5be6c48444d171ce"
+}

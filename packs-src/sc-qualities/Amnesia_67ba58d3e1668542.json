@@ -1,0 +1,32 @@
+{
+  "_id": "67ba58d3e1668542",
+  "name": "Amnesia",
+  "type": "quality",
+  "img": "icons/svg/downgrade.svg",
+  "system": {
+    "kind": "flaw",
+    "category": "mental",
+    "pointValue": -2,
+    "source": "Shadowrun Companion",
+    "notes": "-2 to -5: missing memories — lost skills/knowledge; points scale with what's gone."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.0.1",
+    "createdTime": 1782000000000,
+    "modifiedTime": 1782000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!67ba58d3e1668542"
+}

@@ -1,0 +1,32 @@
+{
+  "_id": "566edc9ef96b2f97",
+  "name": "Magical Talent: Detection Spells",
+  "type": "quality",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "kind": "edge",
+    "category": "magical",
+    "pointValue": 2,
+    "source": "Shadowrun Companion",
+    "notes": "A narrow innate talent for Detection spells."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.0.1",
+    "createdTime": 1782000000000,
+    "modifiedTime": 1782000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!566edc9ef96b2f97"
+}

@@ -1,0 +1,32 @@
+{
+  "_id": "ef6b252711dd8c3c",
+  "name": "Addiction",
+  "type": "quality",
+  "img": "icons/svg/downgrade.svg",
+  "system": {
+    "kind": "flaw",
+    "category": "social",
+    "pointValue": -1,
+    "source": "Shadowrun Companion",
+    "notes": "Addicted to a substance. Type modifier: Strongly Addictive -1, Debilitating -1, Incapacitating -2 (combine with the addiction's severity)."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.0.1",
+    "createdTime": 1782000000000,
+    "modifiedTime": 1782000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ef6b252711dd8c3c"
+}

@@ -1,0 +1,32 @@
+{
+  "_id": "def9db885d00825f",
+  "name": "Night Blindness",
+  "type": "quality",
+  "img": "icons/svg/downgrade.svg",
+  "system": {
+    "kind": "flaw",
+    "category": "physical",
+    "pointValue": -2,
+    "source": "Shadowrun Companion",
+    "notes": "Cannot see in low light at all."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.0.1",
+    "createdTime": 1782000000000,
+    "modifiedTime": 1782000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!def9db885d00825f"
+}

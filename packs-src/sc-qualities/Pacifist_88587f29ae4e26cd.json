@@ -1,0 +1,32 @@
+{
+  "_id": "88587f29ae4e26cd",
+  "name": "Pacifist",
+  "type": "quality",
+  "img": "icons/svg/downgrade.svg",
+  "system": {
+    "kind": "flaw",
+    "category": "mental",
+    "pointValue": -2,
+    "source": "Shadowrun Companion",
+    "notes": "Strongly reluctant to use lethal force."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.0.1",
+    "createdTime": 1782000000000,
+    "modifiedTime": 1782000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!88587f29ae4e26cd"
+}

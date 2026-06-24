@@ -1,0 +1,32 @@
+{
+  "_id": "e6dc6b1c2a35549a",
+  "name": "Adrenaline Surge",
+  "type": "quality",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "kind": "edge",
+    "category": "physical",
+    "pointValue": 2,
+    "source": "Shadowrun Companion",
+    "notes": "In a sudden crisis, a burst of speed and strength (a one-off initiative/reaction boost when first threatened)."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.0.1",
+    "createdTime": 1782000000000,
+    "modifiedTime": 1782000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!e6dc6b1c2a35549a"
+}

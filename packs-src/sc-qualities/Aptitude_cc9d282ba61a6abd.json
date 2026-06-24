@@ -1,0 +1,32 @@
+{
+  "_id": "cc9d282ba61a6abd",
+  "name": "Aptitude",
+  "type": "quality",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "kind": "edge",
+    "category": "skill",
+    "pointValue": 2,
+    "source": "Shadowrun Companion",
+    "notes": "A natural gift for one skill — its maximum rating rises by 1 and it defaults more readily."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.0.1",
+    "createdTime": 1782000000000,
+    "modifiedTime": 1782000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!cc9d282ba61a6abd"
+}

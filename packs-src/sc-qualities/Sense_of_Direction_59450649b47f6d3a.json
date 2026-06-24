@@ -1,0 +1,32 @@
+{
+  "_id": "59450649b47f6d3a",
+  "name": "Sense of Direction",
+  "type": "quality",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "kind": "edge",
+    "category": "mental",
+    "pointValue": 1,
+    "source": "Shadowrun Companion",
+    "notes": "Never get lost; always know which way you're facing."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.0.1",
+    "createdTime": 1782000000000,
+    "modifiedTime": 1782000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!59450649b47f6d3a"
+}

@@ -1,0 +1,32 @@
+{
+  "_id": "ffb89de4a8926160",
+  "name": "Day Job",
+  "type": "quality",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "kind": "edge",
+    "category": "social",
+    "pointValue": 1,
+    "source": "Shadowrun Companion",
+    "notes": "1 to 3 points: legitimate employment giving income and cover (cost scales with the job's demands)."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.0.1",
+    "createdTime": 1782000000000,
+    "modifiedTime": 1782000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ffb89de4a8926160"
+}

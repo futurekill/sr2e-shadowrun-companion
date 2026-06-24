@@ -1,0 +1,32 @@
+{
+  "_id": "2b1f0f6a9489cc0b",
+  "name": "Magical Talent: Combat Spells",
+  "type": "quality",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "kind": "edge",
+    "category": "magical",
+    "pointValue": 4,
+    "source": "Shadowrun Companion",
+    "notes": "A narrow innate talent — cast Combat spells without being a full magician."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.0.1",
+    "createdTime": 1782000000000,
+    "modifiedTime": 1782000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!2b1f0f6a9489cc0b"
+}

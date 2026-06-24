@@ -1,0 +1,32 @@
+{
+  "_id": "1d50793b22bc1c54",
+  "name": "Quick Healer",
+  "type": "quality",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "kind": "edge",
+    "category": "physical",
+    "pointValue": 2,
+    "source": "Shadowrun Companion",
+    "notes": "Heal faster — bonus dice on healing tests / shorter recovery intervals."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.0.1",
+    "createdTime": 1782000000000,
+    "modifiedTime": 1782000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!1d50793b22bc1c54"
+}

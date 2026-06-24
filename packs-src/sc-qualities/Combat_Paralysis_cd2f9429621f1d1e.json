@@ -1,0 +1,32 @@
+{
+  "_id": "cd2f9429621f1d1e",
+  "name": "Combat Paralysis",
+  "type": "quality",
+  "img": "icons/svg/downgrade.svg",
+  "system": {
+    "kind": "flaw",
+    "category": "mental",
+    "pointValue": -4,
+    "source": "Shadowrun Companion",
+    "notes": "You freeze when combat starts — penalty to initiative and your first action."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.0.1",
+    "createdTime": 1782000000000,
+    "modifiedTime": 1782000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!cd2f9429621f1d1e"
+}

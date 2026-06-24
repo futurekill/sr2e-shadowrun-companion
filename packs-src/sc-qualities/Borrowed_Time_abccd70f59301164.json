@@ -1,0 +1,32 @@
+{
+  "_id": "abccd70f59301164",
+  "name": "Borrowed Time",
+  "type": "quality",
+  "img": "icons/svg/downgrade.svg",
+  "system": {
+    "kind": "flaw",
+    "category": "physical",
+    "pointValue": -6,
+    "source": "Shadowrun Companion",
+    "notes": "A terminal or degenerative condition — you're living on borrowed time."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.0.1",
+    "createdTime": 1782000000000,
+    "modifiedTime": 1782000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!abccd70f59301164"
+}

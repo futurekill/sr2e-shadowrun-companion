@@ -1,0 +1,32 @@
+{
+  "_id": "83b1d3f9c97e41cc",
+  "name": "Combat Monster",
+  "type": "quality",
+  "img": "icons/svg/downgrade.svg",
+  "system": {
+    "kind": "flaw",
+    "category": "mental",
+    "pointValue": -1,
+    "source": "Shadowrun Companion",
+    "notes": "Compelled toward violence; hard to de-escalate a fight."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.0.1",
+    "createdTime": 1782000000000,
+    "modifiedTime": 1782000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!83b1d3f9c97e41cc"
+}

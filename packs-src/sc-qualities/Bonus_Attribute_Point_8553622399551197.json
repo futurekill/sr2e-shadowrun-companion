@@ -1,0 +1,32 @@
+{
+  "_id": "8553622399551197",
+  "name": "Bonus Attribute Point",
+  "type": "quality",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "kind": "edge",
+    "category": "attribute",
+    "pointValue": 1,
+    "source": "Shadowrun Companion",
+    "notes": "One extra point to distribute among your Attributes at character creation."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.0.1",
+    "createdTime": 1782000000000,
+    "modifiedTime": 1782000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!8553622399551197"
+}

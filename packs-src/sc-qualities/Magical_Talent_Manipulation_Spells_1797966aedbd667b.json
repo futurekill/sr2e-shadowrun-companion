@@ -1,0 +1,32 @@
+{
+  "_id": "1797966aedbd667b",
+  "name": "Magical Talent: Manipulation Spells",
+  "type": "quality",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "kind": "edge",
+    "category": "magical",
+    "pointValue": 4,
+    "source": "Shadowrun Companion",
+    "notes": "A narrow innate talent for Manipulation spells."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.0.1",
+    "createdTime": 1782000000000,
+    "modifiedTime": 1782000000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!1797966aedbd667b"
+}
