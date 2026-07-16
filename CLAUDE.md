@@ -31,9 +31,17 @@ exactly; see the system `module/data/item-data.mjs` and `config.mjs` qualityKind
 - One generator per category (`tools/gen-*.mjs`). `npm run validate` after build.
 - Build batched by Edge/Flaw category; commit each batch.
 
-## Packs are COMMITTED (not gitignored)
-Like Rigger 2 / FF, `packs/` (built LevelDB) is committed so a fresh checkout
-never shows empty compendiums. Close Foundry before rebuilding (LevelDB locks).
+## Packs are a build artifact (gitignored)
+`packs/` (the built LevelDB) is **gitignored**. Foundry recompacts it every
+session, so committing it churns the tree with meaningless diffs. `packs-src/` is
+the source of truth; the release workflow rebuilds `packs/` from it, so installed
+users always get built compendia.
+
+**A fresh clone has no `packs/` — run `npm run build-packs` before pointing
+Foundry at this folder, or the compendiums show up empty.** Likewise, after
+editing `packs-src/` (or re-running a generator), rebuild before testing: Foundry
+reads the LevelDB, not the JSON, and a stale build silently serves old data.
+Close Foundry before rebuilding (LevelDB locks).
 
 ## Build workflow
 `packs-src/` (JSON, source of truth) → `npm run build-packs [name]` → `packs/`.
