@@ -3,7 +3,7 @@
 A FoundryVTT **V13** content module adding *Shadowrun Companion: Beyond the
 Shadows* (FASA 7905) character options to the **Shadowrun 2nd Edition system**
 (`sr2e`). Separate package: own repo, own packs, no shared code. Depends on the
-system via `module.json` → `relationships.systems` (sr2e ≥ 0.9.0).
+system via `module.json` → `relationships.systems` (sr2e ≥ 0.39.0).
 
 The headline content is the full **Edges & Flaws** catalog, which uses the
 system's `quality` item type (Edge/Flaw with a build-point value, kind, category,
