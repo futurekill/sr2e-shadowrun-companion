@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.2.1 — Attribute Edges
+
+### Fixes
+- **The two Attribute Edges (p.24) now work.** Bonus Attribute Point and
+  Exceptional Attribute carry their new Attribute / Attribute Bonus / Racial
+  Maximum Bonus fields, so picking the Attribute on the item applies the Edge
+  instead of leaving you to add the points by hand. Requires SR2E system 0.39.0.
+- **Both notes were wrong and are rewritten.** Exceptional Attribute claimed to
+  raise an Attribute "one point above its natural racial maximum" — the book says
+  it raises the **maximum only** and does not move the rating. Bonus Attribute
+  Point's note now records the 5-point cap, the racial-maximum bound, and the
+  Edge value of 2 for a point taken past the original maximum.
+
 ## 0.2.0 — Metahuman variants
 
 **14 metahuman variant races** (`sc-metatypes`, book p.39-44) as system `race`

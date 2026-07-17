@@ -8,7 +8,10 @@
     "category": "attribute",
     "pointValue": 1,
     "source": "Shadowrun Companion",
-    "notes": "One extra point to distribute among your Attributes at character creation."
+    "notes": "<p>+1 to the rating of any one Attribute except Essence, Reaction or Magic. Pick the Attribute on this item's sheet; the bonus applies automatically and does not spend character-creation Attribute Points.</p><p>Players can take no more than 5 bonus Attribute Points. Unless the gamemaster authorizes it, they cannot raise an Attribute beyond the character's racial maximum — take <em>Exceptional Attribute</em> to raise the maximum itself. A bonus Attribute Point used to go past the <em>original</em> racial maximum has an Edge value of 2 rather than 1; set the Point Value accordingly. (Shadowrun Companion p.24)</p>",
+    "attribute": "",
+    "attributeBonus": 1,
+    "maximumBonus": 0
   },
   "effects": [],
   "flags": {},

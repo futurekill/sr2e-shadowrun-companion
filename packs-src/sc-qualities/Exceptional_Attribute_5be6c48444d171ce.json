@@ -8,7 +8,10 @@
     "category": "attribute",
     "pointValue": 2,
     "source": "Shadowrun Companion",
-    "notes": "Raise one Attribute one point above its natural racial maximum."
+    "notes": "<p>Increases the racial <em>maximum</em> of one Attribute by 1. Pick the Attribute on this item's sheet.</p><p>This raises the maximum only — it does <strong>not</strong> raise the character's actual Attribute Rating to the new maximum. To do that, take <em>Bonus Attribute Point</em> (at an Edge value of 2 for the point that goes past the original racial maximum). May be taken only once per Attribute. At the gamemaster's discretion the maximum may also be raised by spending Karma during play. (Shadowrun Companion p.24)</p>",
+    "attribute": "",
+    "attributeBonus": 0,
+    "maximumBonus": 1
   },
   "effects": [],
   "flags": {},
