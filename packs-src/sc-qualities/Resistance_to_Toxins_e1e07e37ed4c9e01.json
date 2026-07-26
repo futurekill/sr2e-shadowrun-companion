@@ -2,7 +2,7 @@
   "_id": "e1e07e37ed4c9e01",
   "name": "Resistance to Toxins",
   "type": "quality",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/resistance-to-toxins.webp",
   "system": {
     "kind": "edge",
     "category": "physical",

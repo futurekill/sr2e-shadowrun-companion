@@ -2,7 +2,7 @@
   "_id": "abccd70f59301164",
   "name": "Borrowed Time",
   "type": "quality",
-  "img": "icons/svg/downgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/borrowed-time.webp",
   "system": {
     "kind": "flaw",
     "category": "physical",

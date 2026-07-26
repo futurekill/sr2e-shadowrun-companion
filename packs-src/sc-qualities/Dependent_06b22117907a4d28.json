@@ -2,7 +2,7 @@
   "_id": "06b22117907a4d28",
   "name": "Dependent",
   "type": "quality",
-  "img": "icons/svg/downgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/dependent.webp",
   "system": {
     "kind": "flaw",
     "category": "social",

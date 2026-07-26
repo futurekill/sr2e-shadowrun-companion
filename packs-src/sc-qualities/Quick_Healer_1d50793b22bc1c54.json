@@ -2,7 +2,7 @@
   "_id": "1d50793b22bc1c54",
   "name": "Quick Healer",
   "type": "quality",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/quick-healer.webp",
   "system": {
     "kind": "edge",
     "category": "physical",

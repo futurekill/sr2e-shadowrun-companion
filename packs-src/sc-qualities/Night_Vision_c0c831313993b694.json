@@ -2,7 +2,7 @@
   "_id": "c0c831313993b694",
   "name": "Night Vision",
   "type": "quality",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/night-vision.webp",
   "system": {
     "kind": "edge",
     "category": "physical",

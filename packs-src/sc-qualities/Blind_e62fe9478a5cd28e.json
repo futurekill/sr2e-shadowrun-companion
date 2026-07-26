@@ -2,7 +2,7 @@
   "_id": "e62fe9478a5cd28e",
   "name": "Blind",
   "type": "quality",
-  "img": "icons/svg/downgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/blind.webp",
   "system": {
     "kind": "flaw",
     "category": "physical",

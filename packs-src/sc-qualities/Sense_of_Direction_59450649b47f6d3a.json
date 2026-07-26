@@ -2,7 +2,7 @@
   "_id": "59450649b47f6d3a",
   "name": "Sense of Direction",
   "type": "quality",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/sense-of-direction.webp",
   "system": {
     "kind": "edge",
     "category": "mental",

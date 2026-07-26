@@ -2,7 +2,7 @@
   "_id": "f999393429a08eaf",
   "name": "Impulsive",
   "type": "quality",
-  "img": "icons/svg/downgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/impulsive.webp",
   "system": {
     "kind": "flaw",
     "category": "mental",

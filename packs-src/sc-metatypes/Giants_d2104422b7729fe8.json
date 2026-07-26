@@ -2,7 +2,7 @@
   "_id": "d2104422b7729fe8",
   "name": "Giants",
   "type": "race",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/race/giants.webp",
   "system": {
     "raceKey": "troll",
     "attributeMods": {

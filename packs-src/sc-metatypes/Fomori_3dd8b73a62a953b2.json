@@ -2,7 +2,7 @@
   "_id": "3dd8b73a62a953b2",
   "name": "Fomori",
   "type": "race",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/race/fomori.webp",
   "system": {
     "raceKey": "troll",
     "attributeMods": {

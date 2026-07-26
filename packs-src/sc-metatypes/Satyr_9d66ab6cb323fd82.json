@@ -2,7 +2,7 @@
   "_id": "9d66ab6cb323fd82",
   "name": "Satyr",
   "type": "race",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/race/satyr.webp",
   "system": {
     "raceKey": "ork",
     "attributeMods": {

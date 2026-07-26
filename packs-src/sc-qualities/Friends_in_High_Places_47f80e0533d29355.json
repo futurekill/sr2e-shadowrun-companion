@@ -2,7 +2,7 @@
   "_id": "47f80e0533d29355",
   "name": "Friends in High Places",
   "type": "quality",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/friends-in-high-places.webp",
   "system": {
     "kind": "edge",
     "category": "social",

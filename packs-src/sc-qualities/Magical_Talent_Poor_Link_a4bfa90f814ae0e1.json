@@ -2,7 +2,7 @@
   "_id": "a4bfa90f814ae0e1",
   "name": "Magical Talent: Poor Link",
   "type": "quality",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/magical-talent-poor-link.webp",
   "system": {
     "kind": "edge",
     "category": "magical",

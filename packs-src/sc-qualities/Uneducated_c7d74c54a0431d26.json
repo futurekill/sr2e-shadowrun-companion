@@ -2,7 +2,7 @@
   "_id": "c7d74c54a0431d26",
   "name": "Uneducated",
   "type": "quality",
-  "img": "icons/svg/downgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/uneducated.webp",
   "system": {
     "kind": "flaw",
     "category": "mental",

@@ -2,7 +2,7 @@
   "_id": "15d96916649d472f",
   "name": "Blandness",
   "type": "quality",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/blandness.webp",
   "system": {
     "kind": "edge",
     "category": "social",

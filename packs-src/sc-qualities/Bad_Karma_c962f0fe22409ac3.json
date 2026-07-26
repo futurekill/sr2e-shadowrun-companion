@@ -2,7 +2,7 @@
   "_id": "c962f0fe22409ac3",
   "name": "Bad Karma",
   "type": "quality",
-  "img": "icons/svg/downgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/bad-karma.webp",
   "system": {
     "kind": "flaw",
     "category": "magical",

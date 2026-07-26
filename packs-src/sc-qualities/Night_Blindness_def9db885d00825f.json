@@ -2,7 +2,7 @@
   "_id": "def9db885d00825f",
   "name": "Night Blindness",
   "type": "quality",
-  "img": "icons/svg/downgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/night-blindness.webp",
   "system": {
     "kind": "flaw",
     "category": "physical",

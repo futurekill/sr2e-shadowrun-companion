@@ -2,7 +2,7 @@
   "_id": "c815e337a7bfc53d",
   "name": "Dryads",
   "type": "race",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/race/dryads.webp",
   "system": {
     "raceKey": "elf",
     "attributeMods": {

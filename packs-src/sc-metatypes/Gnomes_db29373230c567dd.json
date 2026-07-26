@@ -2,7 +2,7 @@
   "_id": "db29373230c567dd",
   "name": "Gnomes",
   "type": "race",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/race/gnomes.webp",
   "system": {
     "raceKey": "dwarf",
     "attributeMods": {

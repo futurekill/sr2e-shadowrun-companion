@@ -2,7 +2,7 @@
   "_id": "93821ee297d0cadf",
   "name": "Registered Equipment",
   "type": "quality",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/registered-equipment.webp",
   "system": {
     "kind": "edge",
     "category": "other",

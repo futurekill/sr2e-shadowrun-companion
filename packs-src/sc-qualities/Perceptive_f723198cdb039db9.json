@@ -2,7 +2,7 @@
   "_id": "f723198cdb039db9",
   "name": "Perceptive",
   "type": "quality",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/perceptive.webp",
   "system": {
     "kind": "edge",
     "category": "mental",

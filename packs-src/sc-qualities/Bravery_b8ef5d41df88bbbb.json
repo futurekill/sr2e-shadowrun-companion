@@ -2,7 +2,7 @@
   "_id": "b8ef5d41df88bbbb",
   "name": "Bravery",
   "type": "quality",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/bravery.webp",
   "system": {
     "kind": "edge",
     "category": "mental",

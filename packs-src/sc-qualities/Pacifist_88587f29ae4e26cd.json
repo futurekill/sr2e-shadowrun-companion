@@ -2,7 +2,7 @@
   "_id": "88587f29ae4e26cd",
   "name": "Pacifist",
   "type": "quality",
-  "img": "icons/svg/downgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/pacifist.webp",
   "system": {
     "kind": "flaw",
     "category": "mental",

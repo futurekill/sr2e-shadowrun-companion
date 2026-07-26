@@ -2,7 +2,7 @@
   "_id": "67ba58d3e1668542",
   "name": "Amnesia",
   "type": "quality",
-  "img": "icons/svg/downgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/amnesia.webp",
   "system": {
     "kind": "flaw",
     "category": "mental",

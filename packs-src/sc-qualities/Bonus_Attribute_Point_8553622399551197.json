@@ -2,7 +2,7 @@
   "_id": "8553622399551197",
   "name": "Bonus Attribute Point",
   "type": "quality",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/bonus-attribute-point.webp",
   "system": {
     "kind": "edge",
     "category": "attribute",

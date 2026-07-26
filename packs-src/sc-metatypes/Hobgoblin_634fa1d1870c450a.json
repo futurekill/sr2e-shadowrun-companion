@@ -2,7 +2,7 @@
   "_id": "634fa1d1870c450a",
   "name": "Hobgoblin",
   "type": "race",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/race/hobgoblin.webp",
   "system": {
     "raceKey": "ork",
     "attributeMods": {

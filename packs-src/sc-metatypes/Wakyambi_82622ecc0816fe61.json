@@ -2,7 +2,7 @@
   "_id": "82622ecc0816fe61",
   "name": "Wakyambi",
   "type": "race",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/race/wakyambi.webp",
   "system": {
     "raceKey": "elf",
     "attributeMods": {

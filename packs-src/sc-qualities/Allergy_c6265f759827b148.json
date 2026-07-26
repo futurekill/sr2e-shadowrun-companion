@@ -2,7 +2,7 @@
   "_id": "c6265f759827b148",
   "name": "Allergy",
   "type": "quality",
-  "img": "icons/svg/downgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/allergy.webp",
   "system": {
     "kind": "flaw",
     "category": "physical",

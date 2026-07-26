@@ -2,7 +2,7 @@
   "_id": "4cbb6e3bcede7645",
   "name": "Infirm",
   "type": "quality",
-  "img": "icons/svg/downgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/infirm.webp",
   "system": {
     "kind": "flaw",
     "category": "physical",

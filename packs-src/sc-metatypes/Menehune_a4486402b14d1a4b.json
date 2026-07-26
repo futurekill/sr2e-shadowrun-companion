@@ -2,7 +2,7 @@
   "_id": "a4486402b14d1a4b",
   "name": "Menehune",
   "type": "race",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/race/menehune.webp",
   "system": {
     "raceKey": "dwarf",
     "attributeMods": {

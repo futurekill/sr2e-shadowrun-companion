@@ -2,7 +2,7 @@
   "_id": "538c8a0dad429914",
   "name": "Uncouth",
   "type": "quality",
-  "img": "icons/svg/downgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/uncouth.webp",
   "system": {
     "kind": "flaw",
     "category": "social",

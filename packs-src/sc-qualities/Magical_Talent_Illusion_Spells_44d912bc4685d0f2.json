@@ -2,7 +2,7 @@
   "_id": "44d912bc4685d0f2",
   "name": "Magical Talent: Illusion Spells",
   "type": "quality",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/magical-talent-illusion-spells.webp",
   "system": {
     "kind": "edge",
     "category": "magical",

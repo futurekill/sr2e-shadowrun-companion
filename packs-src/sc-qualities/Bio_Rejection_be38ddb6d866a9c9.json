@@ -2,7 +2,7 @@
   "_id": "be38ddb6d866a9c9",
   "name": "Bio-Rejection",
   "type": "quality",
-  "img": "icons/svg/downgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/bio-rejection.webp",
   "system": {
     "kind": "flaw",
     "category": "physical",

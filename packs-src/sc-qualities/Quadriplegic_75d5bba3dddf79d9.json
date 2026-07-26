@@ -2,7 +2,7 @@
   "_id": "75d5bba3dddf79d9",
   "name": "Quadriplegic",
   "type": "quality",
-  "img": "icons/svg/downgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/quadriplegic.webp",
   "system": {
     "kind": "flaw",
     "category": "physical",

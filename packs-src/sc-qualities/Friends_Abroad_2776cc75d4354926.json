@@ -2,7 +2,7 @@
   "_id": "2776cc75d4354926",
   "name": "Friends Abroad",
   "type": "quality",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/friends-abroad.webp",
   "system": {
     "kind": "edge",
     "category": "social",

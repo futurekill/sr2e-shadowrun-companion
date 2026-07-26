@@ -2,7 +2,7 @@
   "_id": "82ed458e32749132",
   "name": "Natural Immunity",
   "type": "quality",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/natural-immunity.webp",
   "system": {
     "kind": "edge",
     "category": "physical",

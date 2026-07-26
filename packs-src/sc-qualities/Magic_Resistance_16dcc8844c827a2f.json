@@ -2,7 +2,7 @@
   "_id": "16dcc8844c827a2f",
   "name": "Magic Resistance",
   "type": "quality",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/magic-resistance.webp",
   "system": {
     "kind": "edge",
     "category": "magical",

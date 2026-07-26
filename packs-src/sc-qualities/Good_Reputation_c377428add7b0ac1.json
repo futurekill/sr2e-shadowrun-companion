@@ -2,7 +2,7 @@
   "_id": "c377428add7b0ac1",
   "name": "Good Reputation",
   "type": "quality",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/good-reputation.webp",
   "system": {
     "kind": "edge",
     "category": "social",

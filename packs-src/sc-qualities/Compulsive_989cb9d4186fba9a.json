@@ -2,7 +2,7 @@
   "_id": "989cb9d4186fba9a",
   "name": "Compulsive",
   "type": "quality",
-  "img": "icons/svg/downgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/compulsive.webp",
   "system": {
     "kind": "flaw",
     "category": "mental",

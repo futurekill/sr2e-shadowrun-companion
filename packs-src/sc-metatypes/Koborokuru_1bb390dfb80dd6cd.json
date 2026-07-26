@@ -2,7 +2,7 @@
   "_id": "1bb390dfb80dd6cd",
   "name": "Koborokuru",
   "type": "race",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/race/koborokuru.webp",
   "system": {
     "raceKey": "dwarf",
     "attributeMods": {

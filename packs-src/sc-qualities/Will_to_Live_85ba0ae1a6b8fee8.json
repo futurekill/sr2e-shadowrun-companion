@@ -2,7 +2,7 @@
   "_id": "85ba0ae1a6b8fee8",
   "name": "Will to Live",
   "type": "quality",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/will-to-live.webp",
   "system": {
     "kind": "edge",
     "category": "physical",

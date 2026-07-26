@@ -2,7 +2,7 @@
   "_id": "4023d909c82399ed",
   "name": "Resistance to Pathogens",
   "type": "quality",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/resistance-to-pathogens.webp",
   "system": {
     "kind": "edge",
     "category": "physical",

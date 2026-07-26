@@ -2,7 +2,7 @@
   "_id": "bc9de9a4d65635b8",
   "name": "Bonus Force Point",
   "type": "quality",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/bonus-force-point.webp",
   "system": {
     "kind": "edge",
     "category": "magical",

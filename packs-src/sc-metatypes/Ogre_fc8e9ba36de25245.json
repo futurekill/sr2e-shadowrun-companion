@@ -2,7 +2,7 @@
   "_id": "fc8e9ba36de25245",
   "name": "Ogre",
   "type": "race",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/race/ogre.webp",
   "system": {
     "raceKey": "ork",
     "attributeMods": {

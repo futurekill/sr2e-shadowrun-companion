@@ -2,7 +2,7 @@
   "_id": "ffb89de4a8926160",
   "name": "Day Job",
   "type": "quality",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/day-job.webp",
   "system": {
     "kind": "edge",
     "category": "social",

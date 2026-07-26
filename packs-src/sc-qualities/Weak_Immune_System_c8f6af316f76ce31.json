@@ -2,7 +2,7 @@
   "_id": "c8f6af316f76ce31",
   "name": "Weak Immune System",
   "type": "quality",
-  "img": "icons/svg/downgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/weak-immune-system.webp",
   "system": {
     "kind": "flaw",
     "category": "physical",

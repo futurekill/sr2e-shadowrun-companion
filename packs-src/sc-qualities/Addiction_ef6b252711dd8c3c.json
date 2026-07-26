@@ -2,7 +2,7 @@
   "_id": "ef6b252711dd8c3c",
   "name": "Addiction",
   "type": "quality",
-  "img": "icons/svg/downgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/addiction.webp",
   "system": {
     "kind": "flaw",
     "category": "social",

@@ -2,7 +2,7 @@
   "_id": "501c57b75b6f3e23",
   "name": "Magical Talent: Health Spells",
   "type": "quality",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/magical-talent-health-spells.webp",
   "system": {
     "kind": "edge",
     "category": "magical",

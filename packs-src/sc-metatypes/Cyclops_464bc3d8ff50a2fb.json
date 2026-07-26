@@ -2,7 +2,7 @@
   "_id": "464bc3d8ff50a2fb",
   "name": "Cyclops",
   "type": "race",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/race/cyclops.webp",
   "system": {
     "raceKey": "troll",
     "attributeMods": {

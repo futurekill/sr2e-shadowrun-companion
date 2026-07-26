@@ -2,7 +2,7 @@
   "_id": "e80d65521084c7ea",
   "name": "Oni",
   "type": "race",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/race/oni.webp",
   "system": {
     "raceKey": "ork",
     "attributeMods": {

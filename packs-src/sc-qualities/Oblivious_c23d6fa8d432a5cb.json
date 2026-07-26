@@ -2,7 +2,7 @@
   "_id": "c23d6fa8d432a5cb",
   "name": "Oblivious",
   "type": "quality",
-  "img": "icons/svg/downgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/oblivious.webp",
   "system": {
     "kind": "flaw",
     "category": "mental",

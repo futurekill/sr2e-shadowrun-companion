@@ -2,7 +2,7 @@
   "_id": "2bd453a7b973a06e",
   "name": "Paraplegic",
   "type": "quality",
-  "img": "icons/svg/downgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/paraplegic.webp",
   "system": {
     "kind": "flaw",
     "category": "physical",

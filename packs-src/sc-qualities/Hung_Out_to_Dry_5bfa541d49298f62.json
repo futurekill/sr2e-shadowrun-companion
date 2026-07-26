@@ -2,7 +2,7 @@
   "_id": "5bfa541d49298f62",
   "name": "Hung Out to Dry",
   "type": "quality",
-  "img": "icons/svg/downgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/hung-out-to-dry.webp",
   "system": {
     "kind": "flaw",
     "category": "social",

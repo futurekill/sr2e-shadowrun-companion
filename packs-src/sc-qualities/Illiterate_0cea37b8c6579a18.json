@@ -2,7 +2,7 @@
   "_id": "0cea37b8c6579a18",
   "name": "Illiterate",
   "type": "quality",
-  "img": "icons/svg/downgrade.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/quality/illiterate.webp",
   "system": {
     "kind": "flaw",
     "category": "mental",

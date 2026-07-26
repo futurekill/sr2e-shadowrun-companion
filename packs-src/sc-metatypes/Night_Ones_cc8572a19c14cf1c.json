@@ -2,7 +2,7 @@
   "_id": "cc8572a19c14cf1c",
   "name": "Night Ones",
   "type": "race",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-shadowrun-companion/assets/item_icons/race/night-ones.webp",
   "system": {
     "raceKey": "elf",
     "attributeMods": {
