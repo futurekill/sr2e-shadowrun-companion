@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.3.0 — 2026-07-26
+
+### Added
+- Custom art for all 100 documents, replacing Foundry's stock icons. Edges and
+  flaws are symbolic emblems (edges warm, flaws cold and damaged); the 14
+  metahuman variants are portrait busts drawn from each variant's own book
+  description.
+
+### Fixed
+- The dev notes gave the required system as sr2e 0.9.0; Attribute Edges need
+  0.39.0.
+- Releases no longer package `.DS_Store` files.
+
 ## 0.2.1 — Attribute Edges
 
 ### Fixes
