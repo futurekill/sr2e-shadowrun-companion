@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.4.0 — 2026-10-29
+
+### Added
+- **Shapeshifter characters (p.36–38).** Six race items — Bear, Fox, Leopard, Seal, Tiger and
+  Wolf — in the metatypes compendium (now "SC Metahuman Variants & Shapeshifters"). Drop one on a
+  character: the system applies the human- and animal-form modifiers, the Shapeshifter Character
+  Creation Table, shifting, regeneration, silver and the animal-form limits. Requires sr2e 0.125.0.
+
+### Fixed
+- Re-running the metatype generator no longer resets the variants' art: it reads each image from
+  `assets/` by file.
+
 ## 0.3.0 — 2026-07-26
 
 ### Added

@@ -5,10 +5,11 @@
 // One-off quirks with no system ability key (single eye, sunlight allergy, limited
 // Animal Empathy) live in the description. Re-run, then build-packs sc-metatypes.
 //
-// ponytail: shapeshifters and metahuman albinism are skipped. Shapeshifters need
-// dual-form/regen actor support (YAGNI until played); albinism is just "any
-// metatype + the sunlight Allergy flaw", already covered by sc-qualities.
-import { writeFileSync, mkdirSync } from "node:fs";
+// Shapeshifters (p.36–38) are race items with raceKey "shapeshifter" + a species: the
+// system (sr2e 0.125.0+) applies the form modifiers, regeneration and silver itself.
+// Metahuman albinism is skipped: it's "any metatype + the sunlight Allergy flaw",
+// already covered by sc-qualities.
+import { writeFileSync, mkdirSync, existsSync } from "node:fs";
 import { createHash } from "node:crypto";
 
 const DIR = "packs-src/sc-metatypes";
@@ -61,14 +62,39 @@ const VARIANTS = [
     desc: "An all-female elf metavariant averaging just over 1m tall, with seasonal hair/eye color and a deep bond to the wild. <strong>Mods:</strong> standard elf except Body −1, Strength −1, Charisma +3, a Mild allergy to urban areas, and a free, limited Animal Empathy Edge that affects only birds and small tree-dwelling animals (squirrels, chipmunks)." }
 ];
 
+// Shapeshifters (p.36–38). Species modifiers live in the system (they depend on the form);
+// these items only name the species. Descriptions summarise the book.
+const SIX = { body: 6, quickness: 6, strength: 6, charisma: 6, intelligence: 6, willpower: 6, essence: 6, magic: 6, reaction: 6 };
+const SHIFT_RULES = "Race must be Priority A, on the Shapeshifter Character Creation Table (B: magician, C: adept). Base " +
+  "Attributes may not exceed 6; the form modifiers then apply with no racial maximum. Shifting is a Complex Action; gear doesn't " +
+  "shift. In animal form: no speech or Social skills, spells but no Centering, no adept powers. Dual-natured. Regenerates in " +
+  "animal form; Severe Allergy and Vulnerability to silver; rejects cyberware; no free starting contacts.";
+const SHIFTERS = [
+  { species: "bear", name: "Shapeshifter (Bear)", mods: "Human +1 Body, +1 Strength. Animal +5 Body, −1 Quickness, +5 Strength, −2 Willpower, +1 Reach, Dermal Armor (+2 Body)." },
+  { species: "fox", name: "Shapeshifter (Fox)", mods: "Human +1 Intelligence, +2 Charisma, +1 Willpower. Animal the same, plus −2 Body, −2 Strength, +1D6 Initiative." },
+  { species: "leopard", name: "Shapeshifter (Leopard)", mods: "Human no modifiers. Animal +1 Body, +1 Strength, +2D6 Initiative." },
+  { species: "seal", name: "Shapeshifter (Seal)", mods: "Human +1 Charisma. Animal +1 Charisma, +2 Body, +1 Quickness, +1D6 Initiative." },
+  { species: "tiger", name: "Shapeshifter (Tiger)", mods: "Human +1 Strength. Animal +4 Body, +1 Quickness, +4 Strength, −1 Intelligence, −2 Willpower, +1 Reach, +2D6 Initiative." },
+  { species: "wolf", name: "Shapeshifter (Wolf)", mods: "Human no modifiers. Animal +1 Body, +1 Quickness, +1D6 Initiative." }
+];
+
+// Art is derived from assets/ by FILE, so re-running this never un-wires it.
+const slug = (name) => name.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+function artFor(v) {
+  const rel = `assets/item_icons/race/${slug(v.name)}.webp`;
+  if (existsSync(rel)) return `modules/sr2e-shadowrun-companion/${rel}`;
+  return v.species ? "systems/sr2e/assets/creature_portraits/shapeshifter.webp" : "icons/svg/mystery-man.svg";
+}
+
 function race(v) {
   const _id = idFor(v.name);
-  const base = BASE[v.base];
+  const base = v.species ? { max: SIX, abil: [] } : BASE[v.base];
   return {
-    _id, name: v.name, type: "race", img: "icons/svg/mystery-man.svg",
+    _id, name: v.name, type: "race", img: artFor(v),
     system: {
-      raceKey: v.base,
-      attributeMods: v.mods,
+      raceKey: v.species ? "shapeshifter" : v.base,
+      ...(v.species ? { species: v.species } : {}),
+      attributeMods: v.mods ?? M(0, 0, 0, 0, 0, 0),
       attributeMaximums: base.max,
       specialAbilities: v.abil ?? base.abil,
       karmaCost: 0,
@@ -80,8 +106,11 @@ function race(v) {
   };
 }
 
+for (const v of SHIFTERS) Object.assign(v, { mods: undefined, page: "36–38",
+  desc: `An Awakened animal that can take human form. <strong>Modifiers:</strong> ${v.mods} ${SHIFT_RULES}` });
+
 let n = 0;
-for (const v of VARIANTS) {
+for (const v of [...VARIANTS, ...SHIFTERS]) {
   const safe = v.name.replace(/[^A-Za-z0-9]+/g, "_").replace(/^_|_$/g, "");
   writeFileSync(`${DIR}/${safe}_${idFor(v.name)}.json`, JSON.stringify(race(v), null, 2) + "\n");
   n++;

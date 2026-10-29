@@ -12,12 +12,14 @@ A Foundry VTT V13 module bringing *Shadowrun Companion: Beyond the Shadows* (FAS
 ## Notes
 
 - Edges and flaws use the system's `quality` item type; metahuman variants are `race` items.
-- Shapeshifters, the contacts system and the GM rules aren't imported yet.
+- Shapeshifter characters (p.36–38) are race items: drop one on a character. The system applies the
+  form modifiers, shifting, regeneration and silver.
+- The contacts system and the GM rules aren't imported yet.
 
 ## Requirements
 
 - Foundry VTT V13
-- The `sr2e` system, version 0.39.0 or later
+- The `sr2e` system, version 0.125.0 or later
 
 ## Installation
 
