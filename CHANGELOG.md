@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.4.1 — 2026-11-13
+
+### Fixed
+- **Mysterious Cyberware/Bioware** is worth −3 points (p.34 and the Edges and Flaws Table, p.35), not −5.
+
 ## 0.4.0 — 2026-10-29
 
 ### Added

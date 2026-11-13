@@ -127,7 +127,7 @@ const QUALITIES = [
   // --- Miscellaneous ---
   { name: "Cortex Bomb", kind: F, category: "other", value: -6, notes: "An explosive charge implanted in your skull, triggered by someone else." },
   { name: "Hunted", kind: F, category: "other", value: -2, notes: "-2, -4, or -6: a powerful enemy actively hunts you; points scale with their reach." },
-  { name: "Mysterious Cyberware/Bioware", kind: F, category: "other", value: -5, notes: "Implants of unknown origin and function — who put them there, and why?" },
+  { name: "Mysterious Cyberware/Bioware", kind: F, category: "other", value: -3, notes: "Implants of unknown origin and function — who put them there, and why?" },
   { name: "Police Record", kind: F, category: "other", value: -6, notes: "A criminal record — flagged and wanted by law enforcement." }
 ];
 

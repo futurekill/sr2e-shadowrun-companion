@@ -8,6 +8,8 @@ Run before every release. Automated checks first, then the in-Foundry pass.
 - `npm run build-packs` — builds `packs/` from `packs-src/` (Foundry closed).
 
 ## Edges & Flaws (sc-qualities)
+- Point values match the Edges and Flaws Table (p.35); a ranged or "Variable" entry holds its lowest value and the
+  player edits it on the item.
 - Drop Bonus Attribute Point (pick an Attribute) on a character in creation: the rating rises by one.
 - Drop Exceptional Attribute: the racial maximum rises, the rating doesn't.
 
