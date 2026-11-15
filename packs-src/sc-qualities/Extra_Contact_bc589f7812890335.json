@@ -8,7 +8,11 @@
     "category": "social",
     "pointValue": 1,
     "source": "Shadowrun Companion",
-    "notes": "One additional starting Contact."
+    "notes": "One additional starting Contact.",
+    "citation": {
+      "book": "sc",
+      "page": "32"
+    }
   },
   "effects": [],
   "flags": {},

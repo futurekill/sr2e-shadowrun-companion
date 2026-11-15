@@ -8,7 +8,11 @@
     "category": "physical",
     "pointValue": -6,
     "source": "Shadowrun Companion",
-    "notes": "A terminal or degenerative condition — you're living on borrowed time."
+    "notes": "A terminal or degenerative condition — you're living on borrowed time.",
+    "citation": {
+      "book": "sc",
+      "page": "25"
+    }
   },
   "effects": [],
   "flags": {},

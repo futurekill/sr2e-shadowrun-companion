@@ -29,7 +29,11 @@
       "reach_1"
     ],
     "karmaCost": 0,
-    "description": "<p>Greek and Mediterranean trolls with a single central eye and no dermal bone deposits. <strong>Mods:</strong> standard troll except Strength +6 (max 10) and no Dermal Armor. The single eye costs them depth perception — apply a +2 target number to ranged attacks.</p><p><em>Shadowrun Companion p.39</em></p>"
+    "description": "<p>Greek and Mediterranean trolls with a single central eye and no dermal bone deposits. <strong>Mods:</strong> standard troll except Strength +6 (max 10) and no Dermal Armor. The single eye costs them depth perception — apply a +2 target number to ranged attacks.</p><p><em>Shadowrun Companion p.39</em></p>",
+    "citation": {
+      "book": "sc",
+      "page": "39"
+    }
   },
   "effects": [],
   "flags": {},

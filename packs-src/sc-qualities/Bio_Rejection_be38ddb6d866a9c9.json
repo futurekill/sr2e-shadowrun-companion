@@ -8,7 +8,11 @@
     "category": "physical",
     "pointValue": -5,
     "source": "Shadowrun Companion",
-    "notes": "Your body rejects bioware. -5 (-2 for magically active characters)."
+    "notes": "Your body rejects bioware. -5 (-2 for magically active characters).",
+    "citation": {
+      "book": "sc",
+      "page": "25"
+    }
   },
   "effects": [],
   "flags": {},

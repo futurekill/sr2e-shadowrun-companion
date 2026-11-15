@@ -8,7 +8,11 @@
     "category": "mental",
     "pointValue": 2,
     "source": "Shadowrun Companion",
-    "notes": "Formal higher education — benefits relevant Knowledge skills and defaulting."
+    "notes": "Formal higher education — benefits relevant Knowledge skills and defaulting.",
+    "citation": {
+      "book": "sc",
+      "page": "28"
+    }
   },
   "effects": [],
   "flags": {},

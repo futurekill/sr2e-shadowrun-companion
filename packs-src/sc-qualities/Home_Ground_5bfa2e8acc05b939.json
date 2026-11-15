@@ -8,7 +8,11 @@
     "category": "skill",
     "pointValue": 2,
     "source": "Shadowrun Companion",
-    "notes": "Intimate knowledge of one neighborhood/community — bonus dice for tasks there."
+    "notes": "Intimate knowledge of one neighborhood/community — bonus dice for tasks there.",
+    "citation": {
+      "book": "sc",
+      "page": "24"
+    }
   },
   "effects": [],
   "flags": {},

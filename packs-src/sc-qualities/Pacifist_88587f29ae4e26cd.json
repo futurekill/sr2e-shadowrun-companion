@@ -8,7 +8,11 @@
     "category": "mental",
     "pointValue": -2,
     "source": "Shadowrun Companion",
-    "notes": "Strongly reluctant to use lethal force."
+    "notes": "Strongly reluctant to use lethal force.",
+    "citation": {
+      "book": "sc",
+      "page": "29"
+    }
   },
   "effects": [],
   "flags": {},

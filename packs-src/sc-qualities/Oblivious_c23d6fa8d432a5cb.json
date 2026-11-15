@@ -8,7 +8,11 @@
     "category": "mental",
     "pointValue": -2,
     "source": "Shadowrun Companion",
-    "notes": "Penalty to Perception and general awareness."
+    "notes": "Penalty to Perception and general awareness.",
+    "citation": {
+      "book": "sc",
+      "page": "29"
+    }
   },
   "effects": [],
   "flags": {},

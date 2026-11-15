@@ -8,7 +8,11 @@
     "category": "physical",
     "pointValue": 2,
     "source": "Shadowrun Companion",
-    "notes": "Heal faster — bonus dice on healing tests / shorter recovery intervals."
+    "notes": "Heal faster — bonus dice on healing tests / shorter recovery intervals.",
+    "citation": {
+      "book": "sc",
+      "page": "27"
+    }
   },
   "effects": [],
   "flags": {},

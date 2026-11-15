@@ -28,7 +28,11 @@
       "low_light_vision"
     ],
     "karmaCost": 0,
-    "description": "<p>Mediterranean orks with furry lower bodies, cloven hooves and small curly horns; nearly all are magicians, usually following the totem of Bacchus (use Coyote). <strong>Mods:</strong> standard ork except Quickness −1 (hooves) and Willpower +1.</p><p><em>Shadowrun Companion p.43</em></p>"
+    "description": "<p>Mediterranean orks with furry lower bodies, cloven hooves and small curly horns; nearly all are magicians, usually following the totem of Bacchus (use Coyote). <strong>Mods:</strong> standard ork except Quickness −1 (hooves) and Willpower +1.</p><p><em>Shadowrun Companion p.43</em></p>",
+    "citation": {
+      "book": "sc",
+      "page": "43"
+    }
   },
   "effects": [],
   "flags": {},

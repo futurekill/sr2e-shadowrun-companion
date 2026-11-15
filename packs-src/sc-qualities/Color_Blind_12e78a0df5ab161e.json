@@ -8,7 +8,11 @@
     "category": "physical",
     "pointValue": -1,
     "source": "Shadowrun Companion",
-    "notes": "Cannot distinguish colors."
+    "notes": "Cannot distinguish colors.",
+    "citation": {
+      "book": "sc",
+      "page": "25"
+    }
   },
   "effects": [],
   "flags": {},

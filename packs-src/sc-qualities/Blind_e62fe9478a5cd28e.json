@@ -8,7 +8,11 @@
     "category": "physical",
     "pointValue": -6,
     "source": "Shadowrun Companion",
-    "notes": "Cannot see. -6 (-2 for magically active, who can rely on astral perception)."
+    "notes": "Cannot see. -6 (-2 for magically active, who can rely on astral perception).",
+    "citation": {
+      "book": "sc",
+      "page": "25"
+    }
   },
   "effects": [],
   "flags": {},

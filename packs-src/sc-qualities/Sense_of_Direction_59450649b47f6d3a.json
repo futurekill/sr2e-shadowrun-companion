@@ -8,7 +8,11 @@
     "category": "mental",
     "pointValue": 1,
     "source": "Shadowrun Companion",
-    "notes": "Never get lost; always know which way you're facing."
+    "notes": "Never get lost; always know which way you're facing.",
+    "citation": {
+      "book": "sc",
+      "page": "30"
+    }
   },
   "effects": [],
   "flags": {},

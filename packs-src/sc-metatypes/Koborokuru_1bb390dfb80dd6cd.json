@@ -29,7 +29,11 @@
       "disease_resistance"
     ],
     "karmaCost": 0,
-    "description": "<p>Japanese dwarfs, slightly smaller than their Western counterparts, with extensive body hair. <strong>Mods:</strong> standard dwarf except no Quickness penalty.</p><p><em>Shadowrun Companion p.39</em></p>"
+    "description": "<p>Japanese dwarfs, slightly smaller than their Western counterparts, with extensive body hair. <strong>Mods:</strong> standard dwarf except no Quickness penalty.</p><p><em>Shadowrun Companion p.39</em></p>",
+    "citation": {
+      "book": "sc",
+      "page": "39"
+    }
   },
   "effects": [],
   "flags": {},

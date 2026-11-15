@@ -8,7 +8,11 @@
     "category": "magical",
     "pointValue": 4,
     "source": "Shadowrun Companion",
-    "notes": "A narrow innate talent — cast Combat spells without being a full magician."
+    "notes": "A narrow innate talent — cast Combat spells without being a full magician.",
+    "citation": {
+      "book": "sc",
+      "page": "33"
+    }
   },
   "effects": [],
   "flags": {},

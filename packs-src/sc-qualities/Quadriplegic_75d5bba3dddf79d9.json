@@ -8,7 +8,11 @@
     "category": "physical",
     "pointValue": -6,
     "source": "Shadowrun Companion",
-    "notes": "Cannot use your limbs."
+    "notes": "Cannot use your limbs.",
+    "citation": {
+      "book": "sc",
+      "page": "27"
+    }
   },
   "effects": [],
   "flags": {},

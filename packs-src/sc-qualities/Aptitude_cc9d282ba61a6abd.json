@@ -8,7 +8,11 @@
     "category": "skill",
     "pointValue": 2,
     "source": "Shadowrun Companion",
-    "notes": "A natural gift for one skill — its maximum rating rises by 1 and it defaults more readily."
+    "notes": "A natural gift for one skill — its maximum rating rises by 1 and it defaults more readily.",
+    "citation": {
+      "book": "sc",
+      "page": "24"
+    }
   },
   "effects": [],
   "flags": {},

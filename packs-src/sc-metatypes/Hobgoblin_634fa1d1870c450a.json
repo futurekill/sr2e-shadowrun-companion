@@ -28,7 +28,11 @@
       "low_light_vision"
     ],
     "karmaCost": 0,
-    "description": "<p>Middle-Eastern orks — smaller and slighter, with greenish skin, sharp teeth and a fierce, vicious reputation. <strong>Mods:</strong> standard ork except Body +2 and no Intelligence penalty.</p><p><em>Shadowrun Companion p.41</em></p>"
+    "description": "<p>Middle-Eastern orks — smaller and slighter, with greenish skin, sharp teeth and a fierce, vicious reputation. <strong>Mods:</strong> standard ork except Body +2 and no Intelligence penalty.</p><p><em>Shadowrun Companion p.41</em></p>",
+    "citation": {
+      "book": "sc",
+      "page": "41"
+    }
   },
   "effects": [],
   "flags": {},

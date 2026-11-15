@@ -8,7 +8,11 @@
     "category": "mental",
     "pointValue": -1,
     "source": "Shadowrun Companion",
-    "notes": "Cannot read or write."
+    "notes": "Cannot read or write.",
+    "citation": {
+      "book": "sc",
+      "page": "29"
+    }
   },
   "effects": [],
   "flags": {},

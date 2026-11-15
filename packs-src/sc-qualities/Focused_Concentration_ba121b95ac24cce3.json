@@ -8,7 +8,11 @@
     "category": "magical",
     "pointValue": 2,
     "source": "Shadowrun Companion",
-    "notes": "Bonus to maintain spells and resist distraction/Spell Defense."
+    "notes": "Bonus to maintain spells and resist distraction/Spell Defense.",
+    "citation": {
+      "book": "sc",
+      "page": "33"
+    }
   },
   "effects": [],
   "flags": {},

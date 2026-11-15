@@ -8,7 +8,11 @@
     "category": "other",
     "pointValue": 2,
     "source": "Shadowrun Companion",
-    "notes": "2, 4, or 6 points: top-of-the-line gear/cyberware model (cost by tier)."
+    "notes": "2, 4, or 6 points: top-of-the-line gear/cyberware model (cost by tier).",
+    "citation": {
+      "book": "sc",
+      "page": "34"
+    }
   },
   "effects": [],
   "flags": {},

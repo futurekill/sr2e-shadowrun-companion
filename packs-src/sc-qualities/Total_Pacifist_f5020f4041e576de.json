@@ -8,7 +8,11 @@
     "category": "mental",
     "pointValue": -5,
     "source": "Shadowrun Companion",
-    "notes": "Will not harm or kill under any circumstances."
+    "notes": "Will not harm or kill under any circumstances.",
+    "citation": {
+      "book": "sc",
+      "page": "30"
+    }
   },
   "effects": [],
   "flags": {},

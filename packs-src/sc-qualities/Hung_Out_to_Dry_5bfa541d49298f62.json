@@ -8,7 +8,11 @@
     "category": "social",
     "pointValue": -4,
     "source": "Shadowrun Companion",
-    "notes": "No safety net — fixers and contacts won't stick their necks out for you in a crisis."
+    "notes": "No safety net — fixers and contacts won't stick their necks out for you in a crisis.",
+    "citation": {
+      "book": "sc",
+      "page": "32"
+    }
   },
   "effects": [],
   "flags": {},

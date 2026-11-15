@@ -8,7 +8,11 @@
     "category": "physical",
     "pointValue": -3,
     "source": "Shadowrun Companion",
-    "notes": "Cyberware costs double Essence. -3 (-2 for magically active characters)."
+    "notes": "Cyberware costs double Essence. -3 (-2 for magically active characters).",
+    "citation": {
+      "book": "sc",
+      "page": "27"
+    }
   },
   "effects": [],
   "flags": {},

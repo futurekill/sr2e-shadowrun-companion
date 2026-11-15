@@ -8,7 +8,11 @@
     "category": "other",
     "pointValue": -3,
     "source": "Shadowrun Companion",
-    "notes": "Implants of unknown origin and function — who put them there, and why?"
+    "notes": "Implants of unknown origin and function — who put them there, and why?",
+    "citation": {
+      "book": "sc",
+      "page": "34"
+    }
   },
   "effects": [],
   "flags": {},

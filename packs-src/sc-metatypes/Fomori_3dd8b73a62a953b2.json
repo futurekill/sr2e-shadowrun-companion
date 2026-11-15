@@ -29,7 +29,11 @@
       "reach_1"
     ],
     "karmaCost": 0,
-    "description": "<p>Irish/Celtic trolls, leaner and more attractive than most, with a higher-than-average aptitude for magic. <strong>Mods:</strong> standard troll except Body +4, Strength +3, no Dermal Armor, no Charisma penalty.</p><p><em>Shadowrun Companion p.40</em></p>"
+    "description": "<p>Irish/Celtic trolls, leaner and more attractive than most, with a higher-than-average aptitude for magic. <strong>Mods:</strong> standard troll except Body +4, Strength +3, no Dermal Armor, no Charisma penalty.</p><p><em>Shadowrun Companion p.40</em></p>",
+    "citation": {
+      "book": "sc",
+      "page": "40"
+    }
   },
   "effects": [],
   "flags": {},

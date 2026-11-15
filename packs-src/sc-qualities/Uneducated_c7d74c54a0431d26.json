@@ -8,7 +8,11 @@
     "category": "mental",
     "pointValue": -1,
     "source": "Shadowrun Companion",
-    "notes": "No formal schooling — penalties to Knowledge-skill use."
+    "notes": "No formal schooling — penalties to Knowledge-skill use.",
+    "citation": {
+      "book": "sc",
+      "page": "30"
+    }
   },
   "effects": [],
   "flags": {},

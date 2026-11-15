@@ -8,7 +8,11 @@
     "category": "social",
     "pointValue": 2,
     "source": "Shadowrun Companion",
-    "notes": "An utterly forgettable appearance — harder to recall, describe, or track."
+    "notes": "An utterly forgettable appearance — harder to recall, describe, or track.",
+    "citation": {
+      "book": "sc",
+      "page": "31"
+    }
   },
   "effects": [],
   "flags": {},

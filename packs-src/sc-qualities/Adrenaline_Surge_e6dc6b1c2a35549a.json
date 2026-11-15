@@ -8,7 +8,11 @@
     "category": "physical",
     "pointValue": 2,
     "source": "Shadowrun Companion",
-    "notes": "In a sudden crisis, a burst of speed and strength (a one-off initiative/reaction boost when first threatened)."
+    "notes": "In a sudden crisis, a burst of speed and strength (a one-off initiative/reaction boost when first threatened).",
+    "citation": {
+      "book": "sc",
+      "page": "24"
+    }
   },
   "effects": [],
   "flags": {},

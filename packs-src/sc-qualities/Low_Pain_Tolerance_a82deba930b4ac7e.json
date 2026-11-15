@@ -8,7 +8,11 @@
     "category": "physical",
     "pointValue": -4,
     "source": "Shadowrun Companion",
-    "notes": "Wound modifiers affect you more severely than normal."
+    "notes": "Wound modifiers affect you more severely than normal.",
+    "citation": {
+      "book": "sc",
+      "page": "26"
+    }
   },
   "effects": [],
   "flags": {},

@@ -8,7 +8,11 @@
     "category": "magical",
     "pointValue": 1,
     "source": "Shadowrun Companion",
-    "notes": "1 to 4 points: bonus dice to resist spells (1 die per point)."
+    "notes": "1 to 4 points: bonus dice to resist spells (1 die per point).",
+    "citation": {
+      "book": "sc",
+      "page": "33"
+    }
   },
   "effects": [],
   "flags": {},

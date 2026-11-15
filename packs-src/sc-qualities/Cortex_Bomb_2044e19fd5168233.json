@@ -8,7 +8,11 @@
     "category": "other",
     "pointValue": -6,
     "source": "Shadowrun Companion",
-    "notes": "An explosive charge implanted in your skull, triggered by someone else."
+    "notes": "An explosive charge implanted in your skull, triggered by someone else.",
+    "citation": {
+      "book": "sc",
+      "page": "33"
+    }
   },
   "effects": [],
   "flags": {},

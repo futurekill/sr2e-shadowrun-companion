@@ -8,7 +8,11 @@
     "category": "social",
     "pointValue": 3,
     "source": "Shadowrun Companion",
-    "notes": "A useful contact network in another country."
+    "notes": "A useful contact network in another country.",
+    "citation": {
+      "book": "sc",
+      "page": "32"
+    }
   },
   "effects": [],
   "flags": {},

@@ -8,7 +8,11 @@
     "category": "mental",
     "pointValue": -4,
     "source": "Shadowrun Companion",
-    "notes": "Traumatic flashbacks triggered under stress."
+    "notes": "Traumatic flashbacks triggered under stress.",
+    "citation": {
+      "book": "sc",
+      "page": "28"
+    }
   },
   "effects": [],
   "flags": {},

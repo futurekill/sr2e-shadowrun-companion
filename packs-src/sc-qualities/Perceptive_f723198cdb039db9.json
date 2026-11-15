@@ -8,7 +8,11 @@
     "category": "mental",
     "pointValue": 2,
     "source": "Shadowrun Companion",
-    "notes": "Bonus dice on Perception Tests."
+    "notes": "Bonus dice on Perception Tests.",
+    "citation": {
+      "book": "sc",
+      "page": "29"
+    }
   },
   "effects": [],
   "flags": {},

@@ -8,7 +8,11 @@
     "category": "skill",
     "pointValue": -2,
     "source": "Shadowrun Companion",
-    "notes": "Hopeless at one skill — can never learn or default it."
+    "notes": "Hopeless at one skill — can never learn or default it.",
+    "citation": {
+      "book": "sc",
+      "page": "24"
+    }
   },
   "effects": [],
   "flags": {},

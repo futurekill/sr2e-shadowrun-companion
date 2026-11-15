@@ -8,7 +8,11 @@
     "category": "physical",
     "pointValue": 1,
     "source": "Shadowrun Companion",
-    "notes": "1 to 3 points: extra Overflow damage boxes before death (1 per point)."
+    "notes": "1 to 3 points: extra Overflow damage boxes before death (1 per point).",
+    "citation": {
+      "book": "sc",
+      "page": "27"
+    }
   },
   "effects": [],
   "flags": {},

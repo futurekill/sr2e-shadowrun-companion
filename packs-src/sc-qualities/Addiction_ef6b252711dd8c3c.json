@@ -8,7 +8,11 @@
     "category": "social",
     "pointValue": -1,
     "source": "Shadowrun Companion",
-    "notes": "Addicted to a substance. Type modifier: Strongly Addictive -1, Debilitating -1, Incapacitating -2 (combine with the addiction's severity)."
+    "notes": "Addicted to a substance. Type modifier: Strongly Addictive -1, Debilitating -1, Incapacitating -2 (combine with the addiction's severity).",
+    "citation": {
+      "book": "sc",
+      "page": "30"
+    }
   },
   "effects": [],
   "flags": {},

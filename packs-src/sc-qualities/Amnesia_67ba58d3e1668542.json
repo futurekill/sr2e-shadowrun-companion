@@ -8,7 +8,11 @@
     "category": "mental",
     "pointValue": -2,
     "source": "Shadowrun Companion",
-    "notes": "-2 to -5: missing memories — lost skills/knowledge; points scale with what's gone."
+    "notes": "-2 to -5: missing memories — lost skills/knowledge; points scale with what's gone.",
+    "citation": {
+      "book": "sc",
+      "page": "28"
+    }
   },
   "effects": [],
   "flags": {},

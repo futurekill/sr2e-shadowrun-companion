@@ -8,7 +8,11 @@
     "category": "physical",
     "pointValue": 2,
     "source": "Shadowrun Companion",
-    "notes": "Use either hand equally well; no off-hand penalty."
+    "notes": "Use either hand equally well; no off-hand penalty.",
+    "citation": {
+      "book": "sc",
+      "page": "25"
+    }
   },
   "effects": [],
   "flags": {},

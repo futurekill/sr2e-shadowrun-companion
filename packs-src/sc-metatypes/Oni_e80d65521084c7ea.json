@@ -28,7 +28,11 @@
       "low_light_vision"
     ],
     "karmaCost": 0,
-    "description": "<p>Japanese orks with brightly colored skin, enlarged ears and horns, and a higher-than-average aptitude for magic. <strong>Mods:</strong> standard ork. By gamemaster discretion an oni may be built with Resources A / Race B / Magic C to reflect that magical propensity; otherwise use normal priorities.</p><p><em>Shadowrun Companion p.42</em></p>"
+    "description": "<p>Japanese orks with brightly colored skin, enlarged ears and horns, and a higher-than-average aptitude for magic. <strong>Mods:</strong> standard ork. By gamemaster discretion an oni may be built with Resources A / Race B / Magic C to reflect that magical propensity; otherwise use normal priorities.</p><p><em>Shadowrun Companion p.42</em></p>",
+    "citation": {
+      "book": "sc",
+      "page": "42"
+    }
   },
   "effects": [],
   "flags": {},

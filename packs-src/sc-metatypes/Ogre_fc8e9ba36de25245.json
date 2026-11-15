@@ -28,7 +28,11 @@
       "low_light_vision"
     ],
     "karmaCost": 0,
-    "description": "<p>European orks with smoother skin, less hair and pronounced jawlines. <strong>Mods:</strong> standard ork except no Charisma penalty.</p><p><em>Shadowrun Companion p.42</em></p>"
+    "description": "<p>European orks with smoother skin, less hair and pronounced jawlines. <strong>Mods:</strong> standard ork except no Charisma penalty.</p><p><em>Shadowrun Companion p.42</em></p>",
+    "citation": {
+      "book": "sc",
+      "page": "42"
+    }
   },
   "effects": [],
   "flags": {},

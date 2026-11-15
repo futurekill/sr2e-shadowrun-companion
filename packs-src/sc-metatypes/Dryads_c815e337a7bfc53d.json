@@ -28,7 +28,11 @@
       "low_light_vision"
     ],
     "karmaCost": 0,
-    "description": "<p>An all-female elf metavariant averaging just over 1m tall, with seasonal hair/eye color and a deep bond to the wild. <strong>Mods:</strong> standard elf except Body −1, Strength −1, Charisma +3, a Mild allergy to urban areas, and a free, limited Animal Empathy Edge that affects only birds and small tree-dwelling animals (squirrels, chipmunks).</p><p><em>Shadowrun Companion p.44</em></p>"
+    "description": "<p>An all-female elf metavariant averaging just over 1m tall, with seasonal hair/eye color and a deep bond to the wild. <strong>Mods:</strong> standard elf except Body −1, Strength −1, Charisma +3, a Mild allergy to urban areas, and a free, limited Animal Empathy Edge that affects only birds and small tree-dwelling animals (squirrels, chipmunks).</p><p><em>Shadowrun Companion p.44</em></p>",
+    "citation": {
+      "book": "sc",
+      "page": "44"
+    }
   },
   "effects": [],
   "flags": {},

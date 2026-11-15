@@ -8,7 +8,11 @@
     "category": "social",
     "pointValue": 1,
     "source": "Shadowrun Companion",
-    "notes": "1 or 2 points: a positive reputation in the shadows; bonus to relevant social tests."
+    "notes": "1 or 2 points: a positive reputation in the shadows; bonus to relevant social tests.",
+    "citation": {
+      "book": "sc",
+      "page": "32"
+    }
   },
   "effects": [],
   "flags": {},

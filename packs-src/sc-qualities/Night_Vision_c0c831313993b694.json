@@ -8,7 +8,11 @@
     "category": "physical",
     "pointValue": 1,
     "source": "Shadowrun Companion",
-    "notes": "See in low light without penalty (a natural trait, not cyberware)."
+    "notes": "See in low light without penalty (a natural trait, not cyberware).",
+    "citation": {
+      "book": "sc",
+      "page": "27"
+    }
   },
   "effects": [],
   "flags": {},

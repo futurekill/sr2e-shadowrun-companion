@@ -30,7 +30,11 @@
       "reach_1"
     ],
     "karmaCost": 0,
-    "description": "<p>Mediterranean trolls with pronounced snouts, wide-set eyes, long horns and extensive body hair. <strong>Mods:</strong> standard troll except Body +4, Strength +3, Charisma −1, Intelligence −1.</p><p><em>Shadowrun Companion p.43</em></p>"
+    "description": "<p>Mediterranean trolls with pronounced snouts, wide-set eyes, long horns and extensive body hair. <strong>Mods:</strong> standard troll except Body +4, Strength +3, Charisma −1, Intelligence −1.</p><p><em>Shadowrun Companion p.43</em></p>",
+    "citation": {
+      "book": "sc",
+      "page": "43"
+    }
   },
   "effects": [],
   "flags": {},

@@ -8,7 +8,11 @@
     "category": "skill",
     "pointValue": 1,
     "source": "Shadowrun Companion",
-    "notes": "One extra skill point at character creation."
+    "notes": "One extra skill point at character creation.",
+    "citation": {
+      "book": "sc",
+      "page": "24"
+    }
   },
   "effects": [],
   "flags": {},

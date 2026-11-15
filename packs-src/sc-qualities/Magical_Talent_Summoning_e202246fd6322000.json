@@ -8,7 +8,11 @@
     "category": "magical",
     "pointValue": 3,
     "source": "Shadowrun Companion",
-    "notes": "3 points for one spirit category, 5 for all — a conjuring talent without full magician status."
+    "notes": "3 points for one spirit category, 5 for all — a conjuring talent without full magician status.",
+    "citation": {
+      "book": "sc",
+      "page": "33"
+    }
   },
   "effects": [],
   "flags": {},

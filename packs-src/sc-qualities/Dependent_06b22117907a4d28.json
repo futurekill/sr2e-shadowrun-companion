@@ -8,7 +8,11 @@
     "category": "social",
     "pointValue": -1,
     "source": "Shadowrun Companion",
-    "notes": "Variable: someone depends on you (family, ward); points scale with the burden."
+    "notes": "Variable: someone depends on you (family, ward); points scale with the burden.",
+    "citation": {
+      "book": "sc",
+      "page": "31"
+    }
   },
   "effects": [],
   "flags": {},

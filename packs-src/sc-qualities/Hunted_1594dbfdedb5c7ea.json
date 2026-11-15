@@ -8,7 +8,11 @@
     "category": "other",
     "pointValue": -2,
     "source": "Shadowrun Companion",
-    "notes": "-2, -4, or -6: a powerful enemy actively hunts you; points scale with their reach."
+    "notes": "-2, -4, or -6: a powerful enemy actively hunts you; points scale with their reach.",
+    "citation": {
+      "book": "sc",
+      "page": "33"
+    }
   },
   "effects": [],
   "flags": {},

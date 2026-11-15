@@ -8,7 +8,11 @@
     "category": "physical",
     "pointValue": -2,
     "source": "Shadowrun Companion",
-    "notes": "Cannot see in low light at all."
+    "notes": "Cannot see in low light at all.",
+    "citation": {
+      "book": "sc",
+      "page": "27"
+    }
   },
   "effects": [],
   "flags": {},

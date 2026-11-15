@@ -8,7 +8,11 @@
     "category": "magical",
     "pointValue": 3,
     "source": "Shadowrun Companion",
-    "notes": "A narrow innate talent for Illusion spells."
+    "notes": "A narrow innate talent for Illusion spells.",
+    "citation": {
+      "book": "sc",
+      "page": "33"
+    }
   },
   "effects": [],
   "flags": {},

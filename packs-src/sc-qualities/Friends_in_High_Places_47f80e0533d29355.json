@@ -8,7 +8,11 @@
     "category": "social",
     "pointValue": 2,
     "source": "Shadowrun Companion",
-    "notes": "A contact with real institutional influence or authority."
+    "notes": "A contact with real institutional influence or authority.",
+    "citation": {
+      "book": "sc",
+      "page": "32"
+    }
   },
   "effects": [],
   "flags": {},

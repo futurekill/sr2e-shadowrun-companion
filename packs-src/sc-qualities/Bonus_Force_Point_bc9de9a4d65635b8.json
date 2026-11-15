@@ -8,7 +8,11 @@
     "category": "magical",
     "pointValue": 1,
     "source": "Shadowrun Companion",
-    "notes": "1 to 3 points: extra Force/magic points at creation (magically active characters)."
+    "notes": "1 to 3 points: extra Force/magic points at creation (magically active characters).",
+    "citation": {
+      "book": "sc",
+      "page": "32"
+    }
   },
   "effects": [],
   "flags": {},

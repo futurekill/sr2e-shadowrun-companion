@@ -8,7 +8,11 @@
     "category": "physical",
     "pointValue": 1,
     "source": "Shadowrun Companion",
-    "notes": "Bonus dice to resist toxins and poisons."
+    "notes": "Bonus dice to resist toxins and poisons.",
+    "citation": {
+      "book": "sc",
+      "page": "27"
+    }
   },
   "effects": [],
   "flags": {},

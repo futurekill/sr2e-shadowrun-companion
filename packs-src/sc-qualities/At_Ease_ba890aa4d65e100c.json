@@ -8,7 +8,11 @@
     "category": "social",
     "pointValue": 3,
     "source": "Shadowrun Companion",
-    "notes": "Unflappable in social situations; bonus to resist social manipulation."
+    "notes": "Unflappable in social situations; bonus to resist social manipulation.",
+    "citation": {
+      "book": "sc",
+      "page": "31"
+    }
   },
   "effects": [],
   "flags": {},

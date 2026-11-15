@@ -8,7 +8,11 @@
     "category": "social",
     "pointValue": -2,
     "source": "Shadowrun Companion",
-    "notes": "Socially inept — penalty to social skills."
+    "notes": "Socially inept — penalty to social skills.",
+    "citation": {
+      "book": "sc",
+      "page": "32"
+    }
   },
   "effects": [],
   "flags": {},

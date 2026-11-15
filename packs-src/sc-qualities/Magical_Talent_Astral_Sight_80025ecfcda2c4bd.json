@@ -8,7 +8,11 @@
     "category": "magical",
     "pointValue": 3,
     "source": "Shadowrun Companion",
-    "notes": "A mundane character can perceive the astral plane (limited)."
+    "notes": "A mundane character can perceive the astral plane (limited).",
+    "citation": {
+      "book": "sc",
+      "page": "33"
+    }
   },
   "effects": [],
   "flags": {},

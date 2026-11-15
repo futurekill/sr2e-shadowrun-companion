@@ -28,7 +28,11 @@
       "low_light_vision"
     ],
     "karmaCost": 0,
-    "description": "<p>An African elf subgroup — taller and thinner than most elves, almost always albino, dwelling deep in the African heartland. <strong>Mods:</strong> standard elf except Willpower +1 and no Quickness bonus.</p><p><em>Shadowrun Companion p.42</em></p>"
+    "description": "<p>An African elf subgroup — taller and thinner than most elves, almost always albino, dwelling deep in the African heartland. <strong>Mods:</strong> standard elf except Willpower +1 and no Quickness bonus.</p><p><em>Shadowrun Companion p.42</em></p>",
+    "citation": {
+      "book": "sc",
+      "page": "42"
+    }
   },
   "effects": [],
   "flags": {},

@@ -29,7 +29,11 @@
       "disease_resistance"
     ],
     "karmaCost": 0,
-    "description": "<p>A dwarf subgroup of Central Europe and Asia Minor — shorter, with childlike physiques, longer noses and a tendency toward magic (most gnomes are shamans). <strong>Mods:</strong> standard dwarf except Willpower +2.</p><p><em>Shadowrun Companion p.41</em></p>"
+    "description": "<p>A dwarf subgroup of Central Europe and Asia Minor — shorter, with childlike physiques, longer noses and a tendency toward magic (most gnomes are shamans). <strong>Mods:</strong> standard dwarf except Willpower +2.</p><p><em>Shadowrun Companion p.41</em></p>",
+    "citation": {
+      "book": "sc",
+      "page": "41"
+    }
   },
   "effects": [],
   "flags": {},

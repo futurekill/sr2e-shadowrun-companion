@@ -29,7 +29,11 @@
       "reach_1"
     ],
     "karmaCost": 0,
-    "description": "<p>Nordic trolls, fairer and taller than most (averaging 3.5m), lacking the dermal bone deposits. <strong>Mods:</strong> standard troll except Strength +5 and no Dermal Armor.</p><p><em>Shadowrun Companion p.41</em></p>"
+    "description": "<p>Nordic trolls, fairer and taller than most (averaging 3.5m), lacking the dermal bone deposits. <strong>Mods:</strong> standard troll except Strength +5 and no Dermal Armor.</p><p><em>Shadowrun Companion p.41</em></p>",
+    "citation": {
+      "book": "sc",
+      "page": "41"
+    }
   },
   "effects": [],
   "flags": {},

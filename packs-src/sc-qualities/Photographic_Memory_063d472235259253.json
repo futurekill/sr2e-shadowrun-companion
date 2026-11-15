@@ -8,7 +8,11 @@
     "category": "mental",
     "pointValue": 3,
     "source": "Shadowrun Companion",
-    "notes": "Recall anything seen or heard in perfect detail."
+    "notes": "Recall anything seen or heard in perfect detail.",
+    "citation": {
+      "book": "sc",
+      "page": "29"
+    }
   },
   "effects": [],
   "flags": {},

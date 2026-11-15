@@ -8,7 +8,11 @@
     "category": "physical",
     "pointValue": 2,
     "source": "Shadowrun Companion",
-    "notes": "Bonus dice to resist physical damage."
+    "notes": "Bonus dice to resist physical damage.",
+    "citation": {
+      "book": "sc",
+      "page": "27"
+    }
   },
   "effects": [],
   "flags": {},

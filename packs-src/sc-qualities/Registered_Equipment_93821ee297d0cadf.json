@@ -8,7 +8,11 @@
     "category": "other",
     "pointValue": 6,
     "source": "Shadowrun Companion",
-    "notes": "Legally licensed restricted gear — no legality problems carrying that specific item."
+    "notes": "Legally licensed restricted gear — no legality problems carrying that specific item.",
+    "citation": {
+      "book": "sc",
+      "page": "34"
+    }
   },
   "effects": [],
   "flags": {},

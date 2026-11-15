@@ -8,7 +8,11 @@
     "category": "magical",
     "pointValue": -5,
     "source": "Shadowrun Companion",
-    "notes": "Karma works against you — the dice betray you at the worst dramatic moments."
+    "notes": "Karma works against you — the dice betray you at the worst dramatic moments.",
+    "citation": {
+      "book": "sc",
+      "page": "32"
+    }
   },
   "effects": [],
   "flags": {},

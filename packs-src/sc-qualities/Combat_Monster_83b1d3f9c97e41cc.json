@@ -8,7 +8,11 @@
     "category": "mental",
     "pointValue": -1,
     "source": "Shadowrun Companion",
-    "notes": "Compelled toward violence; hard to de-escalate a fight."
+    "notes": "Compelled toward violence; hard to de-escalate a fight.",
+    "citation": {
+      "book": "sc",
+      "page": "28"
+    }
   },
   "effects": [],
   "flags": {},
