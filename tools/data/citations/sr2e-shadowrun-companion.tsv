@@ -1,85 +1,85 @@
-name	_id	book	page	checked
-Adrenaline Surge	e6dc6b1c2a35549a	sc	24	render (printed folio, 85 dpi); located via the OCR layer
-Allergy	c6265f759827b148	sc	24	render (printed folio, 85 dpi); located via the OCR layer
-Aptitude	cc9d282ba61a6abd	sc	24	render (printed folio, 85 dpi); located via the OCR layer
-Bonus Skill Point	d3953453f746eccc	sc	24	render (printed folio, 85 dpi); located via the OCR layer
-Home Ground	5bfa2e8acc05b939	sc	24	render (printed folio, 85 dpi); located via the OCR layer
-Incompetence	070265cf4575ac64	sc	24	render (printed folio, 85 dpi); located via the OCR layer
-Ambidexterity	51fa1cc5019fd560	sc	25	render (printed folio, 85 dpi); located via the OCR layer
-Bio-Rejection	be38ddb6d866a9c9	sc	25	render (printed folio, 85 dpi); located via the OCR layer
-Blind	e62fe9478a5cd28e	sc	25	render (printed folio, 85 dpi); located via the OCR layer
-Borrowed Time	abccd70f59301164	sc	25	render (printed folio, 85 dpi); located via the OCR layer
-Color Blind	12e78a0df5ab161e	sc	25	render (printed folio, 85 dpi); located via the OCR layer
-Deaf	1b7943699a3795a9	sc	26	render (printed folio, 85 dpi); located via the OCR layer
-Double-Jointed	872f9fb8a4791cdc	sc	26	render (printed folio, 85 dpi); located via the OCR layer
-High Pain Tolerance	a0170c796f8e50cc	sc	26	render (printed folio, 85 dpi); located via the OCR layer
-Infirm	4cbb6e3bcede7645	sc	26	render (printed folio, 85 dpi); located via the OCR layer
-Lightning Reflexes	c35b0315e04b0084	sc	26	render (printed folio, 85 dpi); located via the OCR layer
-Low Pain Tolerance	a82deba930b4ac7e	sc	26	render (printed folio, 85 dpi); located via the OCR layer
-Natural Immunity	82ed458e32749132	sc	27	render (printed folio, 85 dpi); located via the OCR layer
-Night Blindness	def9db885d00825f	sc	27	render (printed folio, 85 dpi); located via the OCR layer
-Night Vision	c0c831313993b694	sc	27	render (printed folio, 85 dpi); located via the OCR layer
-Paraplegic	2bd453a7b973a06e	sc	27	render (printed folio, 85 dpi); located via the OCR layer
-Quadriplegic	75d5bba3dddf79d9	sc	27	render (printed folio, 85 dpi); located via the OCR layer
-Quick Healer	1d50793b22bc1c54	sc	27	render (printed folio, 85 dpi); located via the OCR layer
-Resistance to Pathogens	4023d909c82399ed	sc	27	render (printed folio, 85 dpi); located via the OCR layer
-Resistance to Toxins	e1e07e37ed4c9e01	sc	27	render (printed folio, 85 dpi); located via the OCR layer
-Sensitive System	d58f282451636987	sc	27	render (printed folio, 85 dpi); located via the OCR layer
-Toughness	e6dec75ab2f46766	sc	27	render (printed folio, 85 dpi); located via the OCR layer
-Weak Immune System	c8f6af316f76ce31	sc	27	render (printed folio, 85 dpi); located via the OCR layer
-Will to Live	85ba0ae1a6b8fee8	sc	27	render (printed folio, 85 dpi); located via the OCR layer
-Amnesia	67ba58d3e1668542	sc	28	render (printed folio, 85 dpi); located via the OCR layer
-Bravery	b8ef5d41df88bbbb	sc	28	render (printed folio, 85 dpi); located via the OCR layer
-College Education	0f07cad52aad4335	sc	28	render (printed folio, 85 dpi); located via the OCR layer
-Combat Monster	83b1d3f9c97e41cc	sc	28	render (printed folio, 85 dpi); located via the OCR layer
-Combat Paralysis	cd2f9429621f1d1e	sc	28	render (printed folio, 85 dpi); located via the OCR layer
-Common Sense	c60b6f7e00370156	sc	28	render (printed folio, 85 dpi); located via the OCR layer
-Compulsive	989cb9d4186fba9a	sc	28	render (printed folio, 85 dpi); located via the OCR layer
-Flashbacks	c6bcc3db03bea236	sc	28	render (printed folio, 85 dpi); located via the OCR layer
-High School Education	a5b1826f19578ed5	sc	28	render (printed folio, 85 dpi); located via the OCR layer
-Impulsive	f999393429a08eaf	sc	28	render (printed folio, 85 dpi); located via the OCR layer
-Illiterate	0cea37b8c6579a18	sc	29	render (printed folio, 85 dpi); located via the OCR layer
-Oblivious	c23d6fa8d432a5cb	sc	29	render (printed folio, 85 dpi); located via the OCR layer
-Pacifist	88587f29ae4e26cd	sc	29	render (printed folio, 85 dpi); located via the OCR layer
-Perceptive	f723198cdb039db9	sc	29	render (printed folio, 85 dpi); located via the OCR layer
-Perfect Time	a55a1fbfc3ccbabb	sc	29	render (printed folio, 85 dpi); located via the OCR layer
-Phobia	005c8f5815fda252	sc	29	render (printed folio, 85 dpi); located via the OCR layer
-Photographic Memory	063d472235259253	sc	29	render (printed folio, 85 dpi); located via the OCR layer
-Addiction	ef6b252711dd8c3c	sc	30	render (printed folio, 85 dpi); located via the OCR layer
-Animal Empathy	0cd869063d5cffe8	sc	30	render (printed folio, 85 dpi); located via the OCR layer
-Sense of Direction	59450649b47f6d3a	sc	30	render (printed folio, 85 dpi); located via the OCR layer
-Technical School Education	67f599f32c01e82f	sc	30	render (printed folio, 85 dpi); located via the OCR layer
-Total Pacifist	f5020f4041e576de	sc	30	render (printed folio, 85 dpi); located via the OCR layer
-Uneducated	c7d74c54a0431d26	sc	30	render (printed folio, 85 dpi); located via the OCR layer
-Vindictive	c3bd7e124d756049	sc	30	render (printed folio, 85 dpi); located via the OCR layer
-At Ease	ba890aa4d65e100c	sc	31	render (printed folio, 85 dpi); located via the OCR layer
-Bad Reputation	f3f29ed729a1bc62	sc	31	render (printed folio, 85 dpi); located via the OCR layer
-Blandness	15d96916649d472f	sc	31	render (printed folio, 85 dpi); located via the OCR layer
-Dark Secret	050f203f229ea897	sc	31	render (printed folio, 85 dpi); located via the OCR layer
-Day Job	ffb89de4a8926160	sc	31	render (printed folio, 85 dpi); located via the OCR layer
-Dependent	06b22117907a4d28	sc	31	render (printed folio, 85 dpi); located via the OCR layer
-Bad Karma	c962f0fe22409ac3	sc	32	render (printed folio, 85 dpi); located via the OCR layer
-Bonus Force Point	bc9de9a4d65635b8	sc	32	render (printed folio, 85 dpi); located via the OCR layer
-Extra Contact	bc589f7812890335	sc	32	render (printed folio, 85 dpi); located via the OCR layer
-Friends Abroad	2776cc75d4354926	sc	32	render (printed folio, 85 dpi); located via the OCR layer
-Friends in High Places	47f80e0533d29355	sc	32	render (printed folio, 85 dpi); located via the OCR layer
-Good Reputation	c377428add7b0ac1	sc	32	render (printed folio, 85 dpi); located via the OCR layer
-Human-Looking	eee0ace7779e4bed	sc	32	render (printed folio, 85 dpi); located via the OCR layer
-Hung Out to Dry	5bfa541d49298f62	sc	32	render (printed folio, 85 dpi); located via the OCR layer
-Uncouth	538c8a0dad429914	sc	32	render (printed folio, 85 dpi); located via the OCR layer
-Cortex Bomb	2044e19fd5168233	sc	33	render (printed folio, 85 dpi); located via the OCR layer
-Focused Concentration	ba121b95ac24cce3	sc	33	render (printed folio, 85 dpi); located via the OCR layer
-Hunted	1594dbfdedb5c7ea	sc	33	render (printed folio, 85 dpi); located via the OCR layer
-Magic Resistance	16dcc8844c827a2f	sc	33	render (printed folio, 85 dpi); located via the OCR layer
-Magical Talent: Astral Sight	80025ecfcda2c4bd	sc	33	render (printed folio, 85 dpi); located via the OCR layer
-Magical Talent: Combat Spells	2b1f0f6a9489cc0b	sc	33	render (printed folio, 85 dpi); located via the OCR layer
-Magical Talent: Detection Spells	566edc9ef96b2f97	sc	33	render (printed folio, 85 dpi); located via the OCR layer
-Magical Talent: Health Spells	501c57b75b6f3e23	sc	33	render (printed folio, 85 dpi); located via the OCR layer
-Magical Talent: Illusion Spells	44d912bc4685d0f2	sc	33	render (printed folio, 85 dpi); located via the OCR layer
-Magical Talent: Manipulation Spells	1797966aedbd667b	sc	33	render (printed folio, 85 dpi); located via the OCR layer
-Magical Talent: Poor Link	a4bfa90f814ae0e1	sc	33	render (printed folio, 85 dpi); located via the OCR layer
-Magical Talent: Summoning	e202246fd6322000	sc	33	render (printed folio, 85 dpi); located via the OCR layer
-Mysterious Cyberware/Bioware	9aea9e2dbd696133	sc	34	render (printed folio, 85 dpi); located via the OCR layer
-Police Record	ef8af42c79438ef6	sc	34	render (printed folio, 85 dpi); located via the OCR layer
-Registered Equipment	93821ee297d0cadf	sc	34	render (printed folio, 85 dpi); located via the OCR layer
-State-of-the-Art Model	6e0116bc05bc2f2c	sc	34	render (printed folio, 85 dpi); located via the OCR layer
+name	_id	book	page	checked	status
+Adrenaline Surge	e6dc6b1c2a35549a	sc	24	render (printed folio, 85 dpi); located via the OCR layer	cited
+Allergy	c6265f759827b148	sc	24	render (printed folio, 85 dpi); located via the OCR layer	cited
+Aptitude	cc9d282ba61a6abd	sc	24	render (printed folio, 85 dpi); located via the OCR layer	cited
+Bonus Skill Point	d3953453f746eccc	sc	24	render (printed folio, 85 dpi); located via the OCR layer	cited
+Home Ground	5bfa2e8acc05b939	sc	24	render (printed folio, 85 dpi); located via the OCR layer	cited
+Incompetence	070265cf4575ac64	sc	24	render (printed folio, 85 dpi); located via the OCR layer	cited
+Ambidexterity	51fa1cc5019fd560	sc	25	render (printed folio, 85 dpi); located via the OCR layer	cited
+Bio-Rejection	be38ddb6d866a9c9	sc	25	render (printed folio, 85 dpi); located via the OCR layer	cited
+Blind	e62fe9478a5cd28e	sc	25	render (printed folio, 85 dpi); located via the OCR layer	cited
+Borrowed Time	abccd70f59301164	sc	25	render (printed folio, 85 dpi); located via the OCR layer	cited
+Color Blind	12e78a0df5ab161e	sc	25	render (printed folio, 85 dpi); located via the OCR layer	cited
+Deaf	1b7943699a3795a9	sc	26	render (printed folio, 85 dpi); located via the OCR layer	cited
+Double-Jointed	872f9fb8a4791cdc	sc	26	render (printed folio, 85 dpi); located via the OCR layer	cited
+High Pain Tolerance	a0170c796f8e50cc	sc	26	render (printed folio, 85 dpi); located via the OCR layer	cited
+Infirm	4cbb6e3bcede7645	sc	26	render (printed folio, 85 dpi); located via the OCR layer	cited
+Lightning Reflexes	c35b0315e04b0084	sc	26	render (printed folio, 85 dpi); located via the OCR layer	cited
+Low Pain Tolerance	a82deba930b4ac7e	sc	26	render (printed folio, 85 dpi); located via the OCR layer	cited
+Natural Immunity	82ed458e32749132	sc	27	render (printed folio, 85 dpi); located via the OCR layer	cited
+Night Blindness	def9db885d00825f	sc	27	render (printed folio, 85 dpi); located via the OCR layer	cited
+Night Vision	c0c831313993b694	sc	27	render (printed folio, 85 dpi); located via the OCR layer	cited
+Paraplegic	2bd453a7b973a06e	sc	27	render (printed folio, 85 dpi); located via the OCR layer	cited
+Quadriplegic	75d5bba3dddf79d9	sc	27	render (printed folio, 85 dpi); located via the OCR layer	cited
+Quick Healer	1d50793b22bc1c54	sc	27	render (printed folio, 85 dpi); located via the OCR layer	cited
+Resistance to Pathogens	4023d909c82399ed	sc	27	render (printed folio, 85 dpi); located via the OCR layer	cited
+Resistance to Toxins	e1e07e37ed4c9e01	sc	27	render (printed folio, 85 dpi); located via the OCR layer	cited
+Sensitive System	d58f282451636987	sc	27	render (printed folio, 85 dpi); located via the OCR layer	cited
+Toughness	e6dec75ab2f46766	sc	27	render (printed folio, 85 dpi); located via the OCR layer	cited
+Weak Immune System	c8f6af316f76ce31	sc	27	render (printed folio, 85 dpi); located via the OCR layer	cited
+Will to Live	85ba0ae1a6b8fee8	sc	27	render (printed folio, 85 dpi); located via the OCR layer	cited
+Amnesia	67ba58d3e1668542	sc	28	render (printed folio, 85 dpi); located via the OCR layer	cited
+Bravery	b8ef5d41df88bbbb	sc	28	render (printed folio, 85 dpi); located via the OCR layer	cited
+College Education	0f07cad52aad4335	sc	28	render (printed folio, 85 dpi); located via the OCR layer	cited
+Combat Monster	83b1d3f9c97e41cc	sc	28	render (printed folio, 85 dpi); located via the OCR layer	cited
+Combat Paralysis	cd2f9429621f1d1e	sc	28	render (printed folio, 85 dpi); located via the OCR layer	cited
+Common Sense	c60b6f7e00370156	sc	28	render (printed folio, 85 dpi); located via the OCR layer	cited
+Compulsive	989cb9d4186fba9a	sc	28	render (printed folio, 85 dpi); located via the OCR layer	cited
+Flashbacks	c6bcc3db03bea236	sc	28	render (printed folio, 85 dpi); located via the OCR layer	cited
+High School Education	a5b1826f19578ed5	sc	28	render (printed folio, 85 dpi); located via the OCR layer	cited
+Impulsive	f999393429a08eaf	sc	28	render (printed folio, 85 dpi); located via the OCR layer	cited
+Illiterate	0cea37b8c6579a18	sc	29	render (printed folio, 85 dpi); located via the OCR layer	cited
+Oblivious	c23d6fa8d432a5cb	sc	29	render (printed folio, 85 dpi); located via the OCR layer	cited
+Pacifist	88587f29ae4e26cd	sc	29	render (printed folio, 85 dpi); located via the OCR layer	cited
+Perceptive	f723198cdb039db9	sc	29	render (printed folio, 85 dpi); located via the OCR layer	cited
+Perfect Time	a55a1fbfc3ccbabb	sc	29	render (printed folio, 85 dpi); located via the OCR layer	cited
+Phobia	005c8f5815fda252	sc	29	render (printed folio, 85 dpi); located via the OCR layer	cited
+Photographic Memory	063d472235259253	sc	29	render (printed folio, 85 dpi); located via the OCR layer	cited
+Addiction	ef6b252711dd8c3c	sc	30	render (printed folio, 85 dpi); located via the OCR layer	cited
+Animal Empathy	0cd869063d5cffe8	sc	30	render (printed folio, 85 dpi); located via the OCR layer	cited
+Sense of Direction	59450649b47f6d3a	sc	30	render (printed folio, 85 dpi); located via the OCR layer	cited
+Technical School Education	67f599f32c01e82f	sc	30	render (printed folio, 85 dpi); located via the OCR layer	cited
+Total Pacifist	f5020f4041e576de	sc	30	render (printed folio, 85 dpi); located via the OCR layer	cited
+Uneducated	c7d74c54a0431d26	sc	30	render (printed folio, 85 dpi); located via the OCR layer	cited
+Vindictive	c3bd7e124d756049	sc	30	render (printed folio, 85 dpi); located via the OCR layer	cited
+At Ease	ba890aa4d65e100c	sc	31	render (printed folio, 85 dpi); located via the OCR layer	cited
+Bad Reputation	f3f29ed729a1bc62	sc	31	render (printed folio, 85 dpi); located via the OCR layer	cited
+Blandness	15d96916649d472f	sc	31	render (printed folio, 85 dpi); located via the OCR layer	cited
+Dark Secret	050f203f229ea897	sc	31	render (printed folio, 85 dpi); located via the OCR layer	cited
+Day Job	ffb89de4a8926160	sc	31	render (printed folio, 85 dpi); located via the OCR layer	cited
+Dependent	06b22117907a4d28	sc	31	render (printed folio, 85 dpi); located via the OCR layer	cited
+Bad Karma	c962f0fe22409ac3	sc	32	render (printed folio, 85 dpi); located via the OCR layer	cited
+Bonus Force Point	bc9de9a4d65635b8	sc	32	render (printed folio, 85 dpi); located via the OCR layer	cited
+Extra Contact	bc589f7812890335	sc	32	render (printed folio, 85 dpi); located via the OCR layer	cited
+Friends Abroad	2776cc75d4354926	sc	32	render (printed folio, 85 dpi); located via the OCR layer	cited
+Friends in High Places	47f80e0533d29355	sc	32	render (printed folio, 85 dpi); located via the OCR layer	cited
+Good Reputation	c377428add7b0ac1	sc	32	render (printed folio, 85 dpi); located via the OCR layer	cited
+Human-Looking	eee0ace7779e4bed	sc	32	render (printed folio, 85 dpi); located via the OCR layer	cited
+Hung Out to Dry	5bfa541d49298f62	sc	32	render (printed folio, 85 dpi); located via the OCR layer	cited
+Uncouth	538c8a0dad429914	sc	32	render (printed folio, 85 dpi); located via the OCR layer	cited
+Cortex Bomb	2044e19fd5168233	sc	33	render (printed folio, 85 dpi); located via the OCR layer	cited
+Focused Concentration	ba121b95ac24cce3	sc	33	render (printed folio, 85 dpi); located via the OCR layer	cited
+Hunted	1594dbfdedb5c7ea	sc	33	render (printed folio, 85 dpi); located via the OCR layer	cited
+Magic Resistance	16dcc8844c827a2f	sc	33	render (printed folio, 85 dpi); located via the OCR layer	cited
+Magical Talent: Astral Sight	80025ecfcda2c4bd	sc	33	render (printed folio, 85 dpi); located via the OCR layer	cited
+Magical Talent: Combat Spells	2b1f0f6a9489cc0b	sc	33	render (printed folio, 85 dpi); located via the OCR layer	cited
+Magical Talent: Detection Spells	566edc9ef96b2f97	sc	33	render (printed folio, 85 dpi); located via the OCR layer	cited
+Magical Talent: Health Spells	501c57b75b6f3e23	sc	33	render (printed folio, 85 dpi); located via the OCR layer	cited
+Magical Talent: Illusion Spells	44d912bc4685d0f2	sc	33	render (printed folio, 85 dpi); located via the OCR layer	cited
+Magical Talent: Manipulation Spells	1797966aedbd667b	sc	33	render (printed folio, 85 dpi); located via the OCR layer	cited
+Magical Talent: Poor Link	a4bfa90f814ae0e1	sc	33	render (printed folio, 85 dpi); located via the OCR layer	cited
+Magical Talent: Summoning	e202246fd6322000	sc	33	render (printed folio, 85 dpi); located via the OCR layer	cited
+Mysterious Cyberware/Bioware	9aea9e2dbd696133	sc	34	render (printed folio, 85 dpi); located via the OCR layer	cited
+Police Record	ef8af42c79438ef6	sc	34	render (printed folio, 85 dpi); located via the OCR layer	cited
+Registered Equipment	93821ee297d0cadf	sc	34	render (printed folio, 85 dpi); located via the OCR layer	cited
+State-of-the-Art Model	6e0116bc05bc2f2c	sc	34	render (printed folio, 85 dpi); located via the OCR layer	cited
